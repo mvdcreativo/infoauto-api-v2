@@ -1,0 +1,5042 @@
+[
+    {
+        "brand_id": "1",
+        "name": "500",
+        "slug": "500"
+    },
+    {
+        "brand_id": "1",
+        "name": "Grande Punto",
+        "slug": "grande-punto"
+    },
+    {
+        "brand_id": "1",
+        "name": "Punto Evo",
+        "slug": "punto-evo"
+    },
+    {
+        "brand_id": "1",
+        "name": "500c",
+        "slug": "500c"
+    },
+    {
+        "brand_id": "1",
+        "name": "695",
+        "slug": "695"
+    },
+    {
+        "brand_id": "1",
+        "name": "Punto",
+        "slug": "punto"
+    },
+    {
+        "brand_id": "2",
+        "name": "155",
+        "slug": "155"
+    },
+    {
+        "brand_id": "2",
+        "name": "156",
+        "slug": "156"
+    },
+    {
+        "brand_id": "2",
+        "name": "159",
+        "slug": "159"
+    },
+    {
+        "brand_id": "2",
+        "name": "164",
+        "slug": "164"
+    },
+    {
+        "brand_id": "2",
+        "name": "145",
+        "slug": "145"
+    },
+    {
+        "brand_id": "2",
+        "name": "147",
+        "slug": "147"
+    },
+    {
+        "brand_id": "2",
+        "name": "146",
+        "slug": "146"
+    },
+    {
+        "brand_id": "2",
+        "name": "Gtv",
+        "slug": "gtv"
+    },
+    {
+        "brand_id": "2",
+        "name": "Spider",
+        "slug": "spider"
+    },
+    {
+        "brand_id": "2",
+        "name": "166",
+        "slug": "166"
+    },
+    {
+        "brand_id": "2",
+        "name": "Gt",
+        "slug": "gt"
+    },
+    {
+        "brand_id": "2",
+        "name": "Crosswagon",
+        "slug": "crosswagon"
+    },
+    {
+        "brand_id": "2",
+        "name": "Brera",
+        "slug": "brera"
+    },
+    {
+        "brand_id": "2",
+        "name": "90",
+        "slug": "90"
+    },
+    {
+        "brand_id": "2",
+        "name": "75",
+        "slug": "75"
+    },
+    {
+        "brand_id": "2",
+        "name": "33",
+        "slug": "33"
+    },
+    {
+        "brand_id": "2",
+        "name": "Giulietta",
+        "slug": "giulietta"
+    },
+    {
+        "brand_id": "2",
+        "name": "Sprint",
+        "slug": "sprint"
+    },
+    {
+        "brand_id": "2",
+        "name": "Mito",
+        "slug": "mito"
+    },
+    {
+        "brand_id": "3",
+        "name": "Expander",
+        "slug": "expander"
+    },
+    {
+        "brand_id": "3",
+        "name": "10",
+        "slug": "10"
+    },
+    {
+        "brand_id": "3",
+        "name": "24",
+        "slug": "24"
+    },
+    {
+        "brand_id": "3",
+        "name": "Dacia",
+        "slug": "dacia"
+    },
+    {
+        "brand_id": "4",
+        "name": "Rocsta",
+        "slug": "rocsta"
+    },
+    {
+        "brand_id": "5",
+        "name": "Rocsta",
+        "slug": "rocsta"
+    },
+    {
+        "brand_id": "6",
+        "name": "Db7",
+        "slug": "db7"
+    },
+    {
+        "brand_id": "6",
+        "name": "V8",
+        "slug": "v8"
+    },
+    {
+        "brand_id": "6",
+        "name": "Db9",
+        "slug": "db9"
+    },
+    {
+        "brand_id": "6",
+        "name": "Vanquish",
+        "slug": "vanquish"
+    },
+    {
+        "brand_id": "6",
+        "name": "V8 Vantage",
+        "slug": "v8-vantage"
+    },
+    {
+        "brand_id": "6",
+        "name": "Vantage",
+        "slug": "vantage"
+    },
+    {
+        "brand_id": "6",
+        "name": "Dbs",
+        "slug": "dbs"
+    },
+    {
+        "brand_id": "6",
+        "name": "Volante",
+        "slug": "volante"
+    },
+    {
+        "brand_id": "6",
+        "name": "Virage",
+        "slug": "virage"
+    },
+    {
+        "brand_id": "6",
+        "name": "Vantage V8",
+        "slug": "vantage-v8"
+    },
+    {
+        "brand_id": "6",
+        "name": "Vantage V12",
+        "slug": "vantage-v12"
+    },
+    {
+        "brand_id": "6",
+        "name": "Rapide",
+        "slug": "rapide"
+    },
+    {
+        "brand_id": "6",
+        "name": "Cygnet",
+        "slug": "cygnet"
+    },
+    {
+        "brand_id": "7",
+        "name": "80",
+        "slug": "80"
+    },
+    {
+        "brand_id": "7",
+        "name": "A4",
+        "slug": "a4"
+    },
+    {
+        "brand_id": "7",
+        "name": "A6",
+        "slug": "a6"
+    },
+    {
+        "brand_id": "7",
+        "name": "S6",
+        "slug": "s6"
+    },
+    {
+        "brand_id": "7",
+        "name": "Coupe",
+        "slug": "coupe"
+    },
+    {
+        "brand_id": "7",
+        "name": "S2",
+        "slug": "s2"
+    },
+    {
+        "brand_id": "7",
+        "name": "Rs2",
+        "slug": "rs2"
+    },
+    {
+        "brand_id": "7",
+        "name": "A8",
+        "slug": "a8"
+    },
+    {
+        "brand_id": "7",
+        "name": "Cabriolet",
+        "slug": "cabriolet"
+    },
+    {
+        "brand_id": "7",
+        "name": "S8",
+        "slug": "s8"
+    },
+    {
+        "brand_id": "7",
+        "name": "A3",
+        "slug": "a3"
+    },
+    {
+        "brand_id": "7",
+        "name": "S4",
+        "slug": "s4"
+    },
+    {
+        "brand_id": "7",
+        "name": "Tt",
+        "slug": "tt"
+    },
+    {
+        "brand_id": "7",
+        "name": "S3",
+        "slug": "s3"
+    },
+    {
+        "brand_id": "7",
+        "name": "Allroad Quattro",
+        "slug": "allroad-quattro"
+    },
+    {
+        "brand_id": "7",
+        "name": "Rs4",
+        "slug": "rs4"
+    },
+    {
+        "brand_id": "7",
+        "name": "A2",
+        "slug": "a2"
+    },
+    {
+        "brand_id": "7",
+        "name": "Rs6",
+        "slug": "rs6"
+    },
+    {
+        "brand_id": "7",
+        "name": "Q7",
+        "slug": "q7"
+    },
+    {
+        "brand_id": "7",
+        "name": "R8",
+        "slug": "r8"
+    },
+    {
+        "brand_id": "7",
+        "name": "A5",
+        "slug": "a5"
+    },
+    {
+        "brand_id": "7",
+        "name": "S5",
+        "slug": "s5"
+    },
+    {
+        "brand_id": "7",
+        "name": "V8",
+        "slug": "v8"
+    },
+    {
+        "brand_id": "7",
+        "name": "200",
+        "slug": "200"
+    },
+    {
+        "brand_id": "7",
+        "name": "100",
+        "slug": "100"
+    },
+    {
+        "brand_id": "7",
+        "name": "90",
+        "slug": "90"
+    },
+    {
+        "brand_id": "7",
+        "name": "Tts",
+        "slug": "tts"
+    },
+    {
+        "brand_id": "7",
+        "name": "Q5",
+        "slug": "q5"
+    },
+    {
+        "brand_id": "7",
+        "name": "A4 Allroad Quattro",
+        "slug": "a4-allroad-quattro"
+    },
+    {
+        "brand_id": "7",
+        "name": "Tt Rs",
+        "slug": "tt-rs"
+    },
+    {
+        "brand_id": "7",
+        "name": "Rs5",
+        "slug": "rs5"
+    },
+    {
+        "brand_id": "7",
+        "name": "A1",
+        "slug": "a1"
+    },
+    {
+        "brand_id": "7",
+        "name": "A7",
+        "slug": "a7"
+    },
+    {
+        "brand_id": "7",
+        "name": "Rs3",
+        "slug": "rs3"
+    },
+    {
+        "brand_id": "7",
+        "name": "Q3",
+        "slug": "q3"
+    },
+    {
+        "brand_id": "7",
+        "name": "A6 Allroad Quattro",
+        "slug": "a6-allroad-quattro"
+    },
+    {
+        "brand_id": "7",
+        "name": "S7",
+        "slug": "s7"
+    },
+    {
+        "brand_id": "7",
+        "name": "Sq5",
+        "slug": "sq5"
+    },
+    {
+        "brand_id": "8",
+        "name": "Mini",
+        "slug": "mini"
+    },
+    {
+        "brand_id": "8",
+        "name": "Montego",
+        "slug": "montego"
+    },
+    {
+        "brand_id": "8",
+        "name": "Maestro",
+        "slug": "maestro"
+    },
+    {
+        "brand_id": "8",
+        "name": "Metro",
+        "slug": "metro"
+    },
+    {
+        "brand_id": "8",
+        "name": "Mini Moke",
+        "slug": "mini-moke"
+    },
+    {
+        "brand_id": "9",
+        "name": "Diesel",
+        "slug": "diesel"
+    },
+    {
+        "brand_id": "10",
+        "name": "Brooklands",
+        "slug": "brooklands"
+    },
+    {
+        "brand_id": "10",
+        "name": "Turbo",
+        "slug": "turbo"
+    },
+    {
+        "brand_id": "10",
+        "name": "Continental",
+        "slug": "continental"
+    },
+    {
+        "brand_id": "10",
+        "name": "Azure",
+        "slug": "azure"
+    },
+    {
+        "brand_id": "10",
+        "name": "Arnage",
+        "slug": "arnage"
+    },
+    {
+        "brand_id": "10",
+        "name": "Continental Gt",
+        "slug": "continental-gt"
+    },
+    {
+        "brand_id": "10",
+        "name": "Continental Flying Spur",
+        "slug": "continental-flying-spur"
+    },
+    {
+        "brand_id": "10",
+        "name": "Turbo R",
+        "slug": "turbo-r"
+    },
+    {
+        "brand_id": "10",
+        "name": "Mulsanne",
+        "slug": "mulsanne"
+    },
+    {
+        "brand_id": "10",
+        "name": "Eight",
+        "slug": "eight"
+    },
+    {
+        "brand_id": "10",
+        "name": "Continental Gtc",
+        "slug": "continental-gtc"
+    },
+    {
+        "brand_id": "10",
+        "name": "Continental Supersports",
+        "slug": "continental-supersports"
+    },
+    {
+        "brand_id": "11",
+        "name": "Freeclimber Diesel",
+        "slug": "freeclimber-diesel"
+    },
+    {
+        "brand_id": "12",
+        "name": "Serie 3",
+        "slug": "serie-3"
+    },
+    {
+        "brand_id": "12",
+        "name": "Serie 5",
+        "slug": "serie-5"
+    },
+    {
+        "brand_id": "12",
+        "name": "Compact",
+        "slug": "compact"
+    },
+    {
+        "brand_id": "12",
+        "name": "Serie 7",
+        "slug": "serie-7"
+    },
+    {
+        "brand_id": "12",
+        "name": "Serie 8",
+        "slug": "serie-8"
+    },
+    {
+        "brand_id": "12",
+        "name": "Z3",
+        "slug": "z3"
+    },
+    {
+        "brand_id": "12",
+        "name": "Z4",
+        "slug": "z4"
+    },
+    {
+        "brand_id": "12",
+        "name": "Z8",
+        "slug": "z8"
+    },
+    {
+        "brand_id": "12",
+        "name": "X5",
+        "slug": "x5"
+    },
+    {
+        "brand_id": "12",
+        "name": "Serie 6",
+        "slug": "serie-6"
+    },
+    {
+        "brand_id": "12",
+        "name": "X3",
+        "slug": "x3"
+    },
+    {
+        "brand_id": "12",
+        "name": "Serie 1",
+        "slug": "serie-1"
+    },
+    {
+        "brand_id": "12",
+        "name": "Z1",
+        "slug": "z1"
+    },
+    {
+        "brand_id": "12",
+        "name": "X6",
+        "slug": "x6"
+    },
+    {
+        "brand_id": "12",
+        "name": "X1",
+        "slug": "x1"
+    },
+    {
+        "brand_id": "13",
+        "name": "Seville",
+        "slug": "seville"
+    },
+    {
+        "brand_id": "13",
+        "name": "Sts",
+        "slug": "sts"
+    },
+    {
+        "brand_id": "13",
+        "name": "El Dorado",
+        "slug": "el-dorado"
+    },
+    {
+        "brand_id": "13",
+        "name": "Cts",
+        "slug": "cts"
+    },
+    {
+        "brand_id": "13",
+        "name": "Xlr",
+        "slug": "xlr"
+    },
+    {
+        "brand_id": "13",
+        "name": "Srx",
+        "slug": "srx"
+    },
+    {
+        "brand_id": "13",
+        "name": "Escalade",
+        "slug": "escalade"
+    },
+    {
+        "brand_id": "13",
+        "name": "Bls",
+        "slug": "bls"
+    },
+    {
+        "brand_id": "14",
+        "name": "Corvette",
+        "slug": "corvette"
+    },
+    {
+        "brand_id": "14",
+        "name": "Blazer",
+        "slug": "blazer"
+    },
+    {
+        "brand_id": "14",
+        "name": "Astro",
+        "slug": "astro"
+    },
+    {
+        "brand_id": "14",
+        "name": "Nubira",
+        "slug": "nubira"
+    },
+    {
+        "brand_id": "14",
+        "name": "Evanda",
+        "slug": "evanda"
+    },
+    {
+        "brand_id": "14",
+        "name": "Trans Sport",
+        "slug": "trans-sport"
+    },
+    {
+        "brand_id": "14",
+        "name": "Camaro",
+        "slug": "camaro"
+    },
+    {
+        "brand_id": "14",
+        "name": "Matiz",
+        "slug": "matiz"
+    },
+    {
+        "brand_id": "14",
+        "name": "Alero",
+        "slug": "alero"
+    },
+    {
+        "brand_id": "14",
+        "name": "Tahoe",
+        "slug": "tahoe"
+    },
+    {
+        "brand_id": "14",
+        "name": "Tacuma",
+        "slug": "tacuma"
+    },
+    {
+        "brand_id": "14",
+        "name": "Trailblazer",
+        "slug": "trailblazer"
+    },
+    {
+        "brand_id": "14",
+        "name": "Kalos",
+        "slug": "kalos"
+    },
+    {
+        "brand_id": "14",
+        "name": "Aveo",
+        "slug": "aveo"
+    },
+    {
+        "brand_id": "14",
+        "name": "Lacetti",
+        "slug": "lacetti"
+    },
+    {
+        "brand_id": "14",
+        "name": "Epica",
+        "slug": "epica"
+    },
+    {
+        "brand_id": "14",
+        "name": "Captiva",
+        "slug": "captiva"
+    },
+    {
+        "brand_id": "14",
+        "name": "Hhr",
+        "slug": "hhr"
+    },
+    {
+        "brand_id": "14",
+        "name": "Cruze",
+        "slug": "cruze"
+    },
+    {
+        "brand_id": "14",
+        "name": "Spark",
+        "slug": "spark"
+    },
+    {
+        "brand_id": "14",
+        "name": "Orlando",
+        "slug": "orlando"
+    },
+    {
+        "brand_id": "14",
+        "name": "Volt",
+        "slug": "volt"
+    },
+    {
+        "brand_id": "14",
+        "name": "Malibu",
+        "slug": "malibu"
+    },
+    {
+        "brand_id": "15",
+        "name": "Vision",
+        "slug": "vision"
+    },
+    {
+        "brand_id": "15",
+        "name": "300m",
+        "slug": "300m"
+    },
+    {
+        "brand_id": "15",
+        "name": "Grand Voyager",
+        "slug": "grand-voyager"
+    },
+    {
+        "brand_id": "15",
+        "name": "Viper",
+        "slug": "viper"
+    },
+    {
+        "brand_id": "15",
+        "name": "Neon",
+        "slug": "neon"
+    },
+    {
+        "brand_id": "15",
+        "name": "Voyager",
+        "slug": "voyager"
+    },
+    {
+        "brand_id": "15",
+        "name": "Stratus",
+        "slug": "stratus"
+    },
+    {
+        "brand_id": "15",
+        "name": "Sebring",
+        "slug": "sebring"
+    },
+    {
+        "brand_id": "15",
+        "name": "Sebring 200c",
+        "slug": "sebring-200c"
+    },
+    {
+        "brand_id": "15",
+        "name": "New Yorker",
+        "slug": "new-yorker"
+    },
+    {
+        "brand_id": "15",
+        "name": "Pt Cruiser",
+        "slug": "pt-cruiser"
+    },
+    {
+        "brand_id": "15",
+        "name": "Crossfire",
+        "slug": "crossfire"
+    },
+    {
+        "brand_id": "15",
+        "name": "300c",
+        "slug": "300c"
+    },
+    {
+        "brand_id": "15",
+        "name": "Le Baron",
+        "slug": "le-baron"
+    },
+    {
+        "brand_id": "15",
+        "name": "Saratoga",
+        "slug": "saratoga"
+    },
+    {
+        "brand_id": "16",
+        "name": "Xantia",
+        "slug": "xantia"
+    },
+    {
+        "brand_id": "16",
+        "name": "Xm",
+        "slug": "xm"
+    },
+    {
+        "brand_id": "16",
+        "name": "Ax",
+        "slug": "ax"
+    },
+    {
+        "brand_id": "16",
+        "name": "Zx",
+        "slug": "zx"
+    },
+    {
+        "brand_id": "16",
+        "name": "Evasion",
+        "slug": "evasion"
+    },
+    {
+        "brand_id": "16",
+        "name": "C8",
+        "slug": "c8"
+    },
+    {
+        "brand_id": "16",
+        "name": "Saxo",
+        "slug": "saxo"
+    },
+    {
+        "brand_id": "16",
+        "name": "C2",
+        "slug": "c2"
+    },
+    {
+        "brand_id": "16",
+        "name": "Xsara",
+        "slug": "xsara"
+    },
+    {
+        "brand_id": "16",
+        "name": "C4",
+        "slug": "c4"
+    },
+    {
+        "brand_id": "16",
+        "name": "Xsara Picasso",
+        "slug": "xsara-picasso"
+    },
+    {
+        "brand_id": "16",
+        "name": "C5",
+        "slug": "c5"
+    },
+    {
+        "brand_id": "16",
+        "name": "C3",
+        "slug": "c3"
+    },
+    {
+        "brand_id": "16",
+        "name": "C3 Pluriel",
+        "slug": "c3-pluriel"
+    },
+    {
+        "brand_id": "16",
+        "name": "C1",
+        "slug": "c1"
+    },
+    {
+        "brand_id": "16",
+        "name": "C6",
+        "slug": "c6"
+    },
+    {
+        "brand_id": "16",
+        "name": "Grand C4 Picasso",
+        "slug": "grand-c4-picasso"
+    },
+    {
+        "brand_id": "16",
+        "name": "C4 Picasso",
+        "slug": "c4-picasso"
+    },
+    {
+        "brand_id": "16",
+        "name": "Ccrosser",
+        "slug": "ccrosser"
+    },
+    {
+        "brand_id": "16",
+        "name": "C15",
+        "slug": "c15"
+    },
+    {
+        "brand_id": "16",
+        "name": "Jumper",
+        "slug": "jumper"
+    },
+    {
+        "brand_id": "16",
+        "name": "Jumpy",
+        "slug": "jumpy"
+    },
+    {
+        "brand_id": "16",
+        "name": "Berlingo",
+        "slug": "berlingo"
+    },
+    {
+        "brand_id": "16",
+        "name": "Bx",
+        "slug": "bx"
+    },
+    {
+        "brand_id": "16",
+        "name": "C25",
+        "slug": "c25"
+    },
+    {
+        "brand_id": "16",
+        "name": "Cx",
+        "slug": "cx"
+    },
+    {
+        "brand_id": "16",
+        "name": "Gsa",
+        "slug": "gsa"
+    },
+    {
+        "brand_id": "16",
+        "name": "Visa",
+        "slug": "visa"
+    },
+    {
+        "brand_id": "16",
+        "name": "Lna",
+        "slug": "lna"
+    },
+    {
+        "brand_id": "16",
+        "name": "2cv",
+        "slug": "2cv"
+    },
+    {
+        "brand_id": "16",
+        "name": "Nemo",
+        "slug": "nemo"
+    },
+    {
+        "brand_id": "16",
+        "name": "C4 Sedan",
+        "slug": "c4-sedan"
+    },
+    {
+        "brand_id": "16",
+        "name": "Berlingo First",
+        "slug": "berlingo-first"
+    },
+    {
+        "brand_id": "16",
+        "name": "C3 Picasso",
+        "slug": "c3-picasso"
+    },
+    {
+        "brand_id": "16",
+        "name": "Ds3",
+        "slug": "ds3"
+    },
+    {
+        "brand_id": "16",
+        "name": "Czero",
+        "slug": "czero"
+    },
+    {
+        "brand_id": "16",
+        "name": "Ds4",
+        "slug": "ds4"
+    },
+    {
+        "brand_id": "16",
+        "name": "Ds5",
+        "slug": "ds5"
+    },
+    {
+        "brand_id": "16",
+        "name": "C4 Aircross",
+        "slug": "c4-aircross"
+    },
+    {
+        "brand_id": "16",
+        "name": "Celysee",
+        "slug": "celysee"
+    },
+    {
+        "brand_id": "17",
+        "name": "Corvette",
+        "slug": "corvette"
+    },
+    {
+        "brand_id": "18",
+        "name": "Contac",
+        "slug": "contac"
+    },
+    {
+        "brand_id": "18",
+        "name": "Logan",
+        "slug": "logan"
+    },
+    {
+        "brand_id": "18",
+        "name": "Sandero",
+        "slug": "sandero"
+    },
+    {
+        "brand_id": "18",
+        "name": "Duster",
+        "slug": "duster"
+    },
+    {
+        "brand_id": "18",
+        "name": "Lodgy",
+        "slug": "lodgy"
+    },
+    {
+        "brand_id": "19",
+        "name": "Nexia",
+        "slug": "nexia"
+    },
+    {
+        "brand_id": "19",
+        "name": "Aranos",
+        "slug": "aranos"
+    },
+    {
+        "brand_id": "19",
+        "name": "Lanos",
+        "slug": "lanos"
+    },
+    {
+        "brand_id": "19",
+        "name": "Nubira",
+        "slug": "nubira"
+    },
+    {
+        "brand_id": "19",
+        "name": "Compact",
+        "slug": "compact"
+    },
+    {
+        "brand_id": "19",
+        "name": "Nubira Compact",
+        "slug": "nubira-compact"
+    },
+    {
+        "brand_id": "19",
+        "name": "Leganza",
+        "slug": "leganza"
+    },
+    {
+        "brand_id": "19",
+        "name": "Evanda",
+        "slug": "evanda"
+    },
+    {
+        "brand_id": "19",
+        "name": "Matiz",
+        "slug": "matiz"
+    },
+    {
+        "brand_id": "19",
+        "name": "Tacuma",
+        "slug": "tacuma"
+    },
+    {
+        "brand_id": "19",
+        "name": "Kalos",
+        "slug": "kalos"
+    },
+    {
+        "brand_id": "19",
+        "name": "Lacetti",
+        "slug": "lacetti"
+    },
+    {
+        "brand_id": "21",
+        "name": "Applause",
+        "slug": "applause"
+    },
+    {
+        "brand_id": "21",
+        "name": "Charade",
+        "slug": "charade"
+    },
+    {
+        "brand_id": "21",
+        "name": "Rocky",
+        "slug": "rocky"
+    },
+    {
+        "brand_id": "21",
+        "name": "Feroza",
+        "slug": "feroza"
+    },
+    {
+        "brand_id": "21",
+        "name": "Terios",
+        "slug": "terios"
+    },
+    {
+        "brand_id": "21",
+        "name": "Sirion",
+        "slug": "sirion"
+    },
+    {
+        "brand_id": "22",
+        "name": "Serie Xj",
+        "slug": "serie-xj"
+    },
+    {
+        "brand_id": "22",
+        "name": "Xj",
+        "slug": "xj"
+    },
+    {
+        "brand_id": "22",
+        "name": "Double Six",
+        "slug": "double-six"
+    },
+    {
+        "brand_id": "22",
+        "name": "Six",
+        "slug": "six"
+    },
+    {
+        "brand_id": "22",
+        "name": "Series Iii",
+        "slug": "series-iii"
+    },
+    {
+        "brand_id": "23",
+        "name": "Viper",
+        "slug": "viper"
+    },
+    {
+        "brand_id": "23",
+        "name": "Caliber",
+        "slug": "caliber"
+    },
+    {
+        "brand_id": "23",
+        "name": "Nitro",
+        "slug": "nitro"
+    },
+    {
+        "brand_id": "23",
+        "name": "Avenger",
+        "slug": "avenger"
+    },
+    {
+        "brand_id": "23",
+        "name": "Journey",
+        "slug": "journey"
+    },
+    {
+        "brand_id": "24",
+        "name": "F355",
+        "slug": "f355"
+    },
+    {
+        "brand_id": "24",
+        "name": "360",
+        "slug": "360"
+    },
+    {
+        "brand_id": "24",
+        "name": "F430",
+        "slug": "f430"
+    },
+    {
+        "brand_id": "24",
+        "name": "F512 M",
+        "slug": "f512-m"
+    },
+    {
+        "brand_id": "24",
+        "name": "550 Maranello",
+        "slug": "550-maranello"
+    },
+    {
+        "brand_id": "24",
+        "name": "575m Maranello",
+        "slug": "575m-maranello"
+    },
+    {
+        "brand_id": "24",
+        "name": "599",
+        "slug": "599"
+    },
+    {
+        "brand_id": "24",
+        "name": "456",
+        "slug": "456"
+    },
+    {
+        "brand_id": "24",
+        "name": "456m",
+        "slug": "456m"
+    },
+    {
+        "brand_id": "24",
+        "name": "612",
+        "slug": "612"
+    },
+    {
+        "brand_id": "24",
+        "name": "F50",
+        "slug": "f50"
+    },
+    {
+        "brand_id": "24",
+        "name": "Enzo",
+        "slug": "enzo"
+    },
+    {
+        "brand_id": "24",
+        "name": "Superamerica",
+        "slug": "superamerica"
+    },
+    {
+        "brand_id": "24",
+        "name": "430",
+        "slug": "430"
+    },
+    {
+        "brand_id": "24",
+        "name": "348",
+        "slug": "348"
+    },
+    {
+        "brand_id": "24",
+        "name": "Testarossa",
+        "slug": "testarossa"
+    },
+    {
+        "brand_id": "24",
+        "name": "512",
+        "slug": "512"
+    },
+    {
+        "brand_id": "24",
+        "name": "355",
+        "slug": "355"
+    },
+    {
+        "brand_id": "24",
+        "name": "F40",
+        "slug": "f40"
+    },
+    {
+        "brand_id": "24",
+        "name": "412",
+        "slug": "412"
+    },
+    {
+        "brand_id": "24",
+        "name": "Mondial",
+        "slug": "mondial"
+    },
+    {
+        "brand_id": "24",
+        "name": "328",
+        "slug": "328"
+    },
+    {
+        "brand_id": "24",
+        "name": "California",
+        "slug": "california"
+    },
+    {
+        "brand_id": "24",
+        "name": "458",
+        "slug": "458"
+    },
+    {
+        "brand_id": "24",
+        "name": "Ff",
+        "slug": "ff"
+    },
+    {
+        "brand_id": "25",
+        "name": "Croma",
+        "slug": "croma"
+    },
+    {
+        "brand_id": "25",
+        "name": "Cinquecento",
+        "slug": "cinquecento"
+    },
+    {
+        "brand_id": "25",
+        "name": "Seicento",
+        "slug": "seicento"
+    },
+    {
+        "brand_id": "25",
+        "name": "Punto",
+        "slug": "punto"
+    },
+    {
+        "brand_id": "25",
+        "name": "Grande Punto",
+        "slug": "grande-punto"
+    },
+    {
+        "brand_id": "25",
+        "name": "Panda",
+        "slug": "panda"
+    },
+    {
+        "brand_id": "25",
+        "name": "Tipo",
+        "slug": "tipo"
+    },
+    {
+        "brand_id": "25",
+        "name": "Coupe",
+        "slug": "coupe"
+    },
+    {
+        "brand_id": "25",
+        "name": "Uno",
+        "slug": "uno"
+    },
+    {
+        "brand_id": "25",
+        "name": "Ulysse",
+        "slug": "ulysse"
+    },
+    {
+        "brand_id": "25",
+        "name": "Tempra",
+        "slug": "tempra"
+    },
+    {
+        "brand_id": "25",
+        "name": "Marea",
+        "slug": "marea"
+    },
+    {
+        "brand_id": "25",
+        "name": "Barchetta",
+        "slug": "barchetta"
+    },
+    {
+        "brand_id": "25",
+        "name": "Bravo",
+        "slug": "bravo"
+    },
+    {
+        "brand_id": "25",
+        "name": "Stilo",
+        "slug": "stilo"
+    },
+    {
+        "brand_id": "25",
+        "name": "Brava",
+        "slug": "brava"
+    },
+    {
+        "brand_id": "25",
+        "name": "Palio Weekend",
+        "slug": "palio-weekend"
+    },
+    {
+        "brand_id": "25",
+        "name": "600",
+        "slug": "600"
+    },
+    {
+        "brand_id": "25",
+        "name": "Multipla",
+        "slug": "multipla"
+    },
+    {
+        "brand_id": "25",
+        "name": "Idea",
+        "slug": "idea"
+    },
+    {
+        "brand_id": "25",
+        "name": "Sedici",
+        "slug": "sedici"
+    },
+    {
+        "brand_id": "25",
+        "name": "Linea",
+        "slug": "linea"
+    },
+    {
+        "brand_id": "25",
+        "name": "500",
+        "slug": "500"
+    },
+    {
+        "brand_id": "25",
+        "name": "Fiorino",
+        "slug": "fiorino"
+    },
+    {
+        "brand_id": "25",
+        "name": "Ducato",
+        "slug": "ducato"
+    },
+    {
+        "brand_id": "25",
+        "name": "Doblo Cargo",
+        "slug": "doblo-cargo"
+    },
+    {
+        "brand_id": "25",
+        "name": "Doblo",
+        "slug": "doblo"
+    },
+    {
+        "brand_id": "25",
+        "name": "Strada",
+        "slug": "strada"
+    },
+    {
+        "brand_id": "25",
+        "name": "Regata",
+        "slug": "regata"
+    },
+    {
+        "brand_id": "25",
+        "name": "Talento",
+        "slug": "talento"
+    },
+    {
+        "brand_id": "25",
+        "name": "Argenta",
+        "slug": "argenta"
+    },
+    {
+        "brand_id": "25",
+        "name": "Ritmo",
+        "slug": "ritmo"
+    },
+    {
+        "brand_id": "25",
+        "name": "Punto Classic",
+        "slug": "punto-classic"
+    },
+    {
+        "brand_id": "25",
+        "name": "Qubo",
+        "slug": "qubo"
+    },
+    {
+        "brand_id": "25",
+        "name": "Punto Evo",
+        "slug": "punto-evo"
+    },
+    {
+        "brand_id": "25",
+        "name": "500c",
+        "slug": "500c"
+    },
+    {
+        "brand_id": "25",
+        "name": "Freemont",
+        "slug": "freemont"
+    },
+    {
+        "brand_id": "25",
+        "name": "Panda Classic",
+        "slug": "panda-classic"
+    },
+    {
+        "brand_id": "25",
+        "name": "500l",
+        "slug": "500l"
+    },
+    {
+        "brand_id": "26",
+        "name": "Maverick",
+        "slug": "maverick"
+    },
+    {
+        "brand_id": "26",
+        "name": "Escort",
+        "slug": "escort"
+    },
+    {
+        "brand_id": "26",
+        "name": "Focus",
+        "slug": "focus"
+    },
+    {
+        "brand_id": "26",
+        "name": "Mondeo",
+        "slug": "mondeo"
+    },
+    {
+        "brand_id": "26",
+        "name": "Scorpio",
+        "slug": "scorpio"
+    },
+    {
+        "brand_id": "26",
+        "name": "Fiesta",
+        "slug": "fiesta"
+    },
+    {
+        "brand_id": "26",
+        "name": "Probe",
+        "slug": "probe"
+    },
+    {
+        "brand_id": "26",
+        "name": "Explorer",
+        "slug": "explorer"
+    },
+    {
+        "brand_id": "26",
+        "name": "Galaxy",
+        "slug": "galaxy"
+    },
+    {
+        "brand_id": "26",
+        "name": "Ka",
+        "slug": "ka"
+    },
+    {
+        "brand_id": "26",
+        "name": "Puma",
+        "slug": "puma"
+    },
+    {
+        "brand_id": "26",
+        "name": "Cougar",
+        "slug": "cougar"
+    },
+    {
+        "brand_id": "26",
+        "name": "Focus Cmax",
+        "slug": "focus-cmax"
+    },
+    {
+        "brand_id": "26",
+        "name": "Fusion",
+        "slug": "fusion"
+    },
+    {
+        "brand_id": "26",
+        "name": "Streetka",
+        "slug": "streetka"
+    },
+    {
+        "brand_id": "26",
+        "name": "Cmax",
+        "slug": "cmax"
+    },
+    {
+        "brand_id": "26",
+        "name": "Smax",
+        "slug": "smax"
+    },
+    {
+        "brand_id": "26",
+        "name": "Transit",
+        "slug": "transit"
+    },
+    {
+        "brand_id": "26",
+        "name": "Courier",
+        "slug": "courier"
+    },
+    {
+        "brand_id": "26",
+        "name": "Ranger",
+        "slug": "ranger"
+    },
+    {
+        "brand_id": "26",
+        "name": "Sierra",
+        "slug": "sierra"
+    },
+    {
+        "brand_id": "26",
+        "name": "Orion",
+        "slug": "orion"
+    },
+    {
+        "brand_id": "26",
+        "name": "Pick Up",
+        "slug": "pick-up"
+    },
+    {
+        "brand_id": "26",
+        "name": "Capri",
+        "slug": "capri"
+    },
+    {
+        "brand_id": "26",
+        "name": "Granada",
+        "slug": "granada"
+    },
+    {
+        "brand_id": "26",
+        "name": "Kuga",
+        "slug": "kuga"
+    },
+    {
+        "brand_id": "26",
+        "name": "Grand Cmax",
+        "slug": "grand-cmax"
+    },
+    {
+        "brand_id": "26",
+        "name": "Bmax",
+        "slug": "bmax"
+    },
+    {
+        "brand_id": "26",
+        "name": "Tourneo Custom",
+        "slug": "tourneo-custom"
+    },
+    {
+        "brand_id": "27",
+        "name": "Exceed",
+        "slug": "exceed"
+    },
+    {
+        "brand_id": "27",
+        "name": "Santamo",
+        "slug": "santamo"
+    },
+    {
+        "brand_id": "27",
+        "name": "Super Exceed",
+        "slug": "super-exceed"
+    },
+    {
+        "brand_id": "29",
+        "name": "Accord",
+        "slug": "accord"
+    },
+    {
+        "brand_id": "29",
+        "name": "Civic",
+        "slug": "civic"
+    },
+    {
+        "brand_id": "29",
+        "name": "Crx",
+        "slug": "crx"
+    },
+    {
+        "brand_id": "29",
+        "name": "Prelude",
+        "slug": "prelude"
+    },
+    {
+        "brand_id": "29",
+        "name": "Nsx",
+        "slug": "nsx"
+    },
+    {
+        "brand_id": "29",
+        "name": "Legend",
+        "slug": "legend"
+    },
+    {
+        "brand_id": "29",
+        "name": "Crv",
+        "slug": "crv"
+    },
+    {
+        "brand_id": "29",
+        "name": "Hrv",
+        "slug": "hrv"
+    },
+    {
+        "brand_id": "29",
+        "name": "Logo",
+        "slug": "logo"
+    },
+    {
+        "brand_id": "29",
+        "name": "S2000",
+        "slug": "s2000"
+    },
+    {
+        "brand_id": "29",
+        "name": "Stream",
+        "slug": "stream"
+    },
+    {
+        "brand_id": "29",
+        "name": "Jazz",
+        "slug": "jazz"
+    },
+    {
+        "brand_id": "29",
+        "name": "Frv",
+        "slug": "frv"
+    },
+    {
+        "brand_id": "29",
+        "name": "Concerto",
+        "slug": "concerto"
+    },
+    {
+        "brand_id": "29",
+        "name": "Insight",
+        "slug": "insight"
+    },
+    {
+        "brand_id": "29",
+        "name": "Crz",
+        "slug": "crz"
+    },
+    {
+        "brand_id": "30",
+        "name": "H2",
+        "slug": "h2"
+    },
+    {
+        "brand_id": "30",
+        "name": "H3",
+        "slug": "h3"
+    },
+    {
+        "brand_id": "30",
+        "name": "H3t",
+        "slug": "h3t"
+    },
+    {
+        "brand_id": "31",
+        "name": "Lantra",
+        "slug": "lantra"
+    },
+    {
+        "brand_id": "31",
+        "name": "Sonata",
+        "slug": "sonata"
+    },
+    {
+        "brand_id": "31",
+        "name": "Elantra",
+        "slug": "elantra"
+    },
+    {
+        "brand_id": "31",
+        "name": "Accent",
+        "slug": "accent"
+    },
+    {
+        "brand_id": "31",
+        "name": "Scoupe",
+        "slug": "scoupe"
+    },
+    {
+        "brand_id": "31",
+        "name": "Coupe",
+        "slug": "coupe"
+    },
+    {
+        "brand_id": "31",
+        "name": "Atos",
+        "slug": "atos"
+    },
+    {
+        "brand_id": "31",
+        "name": "H1",
+        "slug": "h1"
+    },
+    {
+        "brand_id": "31",
+        "name": "Atos Prime",
+        "slug": "atos-prime"
+    },
+    {
+        "brand_id": "31",
+        "name": "Xg",
+        "slug": "xg"
+    },
+    {
+        "brand_id": "31",
+        "name": "Trajet",
+        "slug": "trajet"
+    },
+    {
+        "brand_id": "31",
+        "name": "Santa Fe",
+        "slug": "santa-fe"
+    },
+    {
+        "brand_id": "31",
+        "name": "Terracan",
+        "slug": "terracan"
+    },
+    {
+        "brand_id": "31",
+        "name": "Matrix",
+        "slug": "matrix"
+    },
+    {
+        "brand_id": "31",
+        "name": "Getz",
+        "slug": "getz"
+    },
+    {
+        "brand_id": "31",
+        "name": "Tucson",
+        "slug": "tucson"
+    },
+    {
+        "brand_id": "31",
+        "name": "I30",
+        "slug": "i30"
+    },
+    {
+        "brand_id": "31",
+        "name": "Pony",
+        "slug": "pony"
+    },
+    {
+        "brand_id": "31",
+        "name": "Grandeur",
+        "slug": "grandeur"
+    },
+    {
+        "brand_id": "31",
+        "name": "I10",
+        "slug": "i10"
+    },
+    {
+        "brand_id": "31",
+        "name": "I800",
+        "slug": "i800"
+    },
+    {
+        "brand_id": "31",
+        "name": "Sonata Fl",
+        "slug": "sonata-fl"
+    },
+    {
+        "brand_id": "31",
+        "name": "Ix55",
+        "slug": "ix55"
+    },
+    {
+        "brand_id": "31",
+        "name": "I20",
+        "slug": "i20"
+    },
+    {
+        "brand_id": "31",
+        "name": "Ix35",
+        "slug": "ix35"
+    },
+    {
+        "brand_id": "31",
+        "name": "Ix20",
+        "slug": "ix20"
+    },
+    {
+        "brand_id": "31",
+        "name": "Genesis",
+        "slug": "genesis"
+    },
+    {
+        "brand_id": "31",
+        "name": "I40",
+        "slug": "i40"
+    },
+    {
+        "brand_id": "31",
+        "name": "Veloster",
+        "slug": "veloster"
+    },
+    {
+        "brand_id": "32",
+        "name": "G",
+        "slug": "g"
+    },
+    {
+        "brand_id": "32",
+        "name": "Ex",
+        "slug": "ex"
+    },
+    {
+        "brand_id": "32",
+        "name": "Fx",
+        "slug": "fx"
+    },
+    {
+        "brand_id": "32",
+        "name": "M",
+        "slug": "m"
+    },
+    {
+        "brand_id": "33",
+        "name": "Elba",
+        "slug": "elba"
+    },
+    {
+        "brand_id": "33",
+        "name": "Minitre",
+        "slug": "minitre"
+    },
+    {
+        "brand_id": "34",
+        "name": "Trooper",
+        "slug": "trooper"
+    },
+    {
+        "brand_id": "34",
+        "name": "Pick Up",
+        "slug": "pick-up"
+    },
+    {
+        "brand_id": "34",
+        "name": "D Max",
+        "slug": "d-max"
+    },
+    {
+        "brand_id": "34",
+        "name": "Rodeo",
+        "slug": "rodeo"
+    },
+    {
+        "brand_id": "34",
+        "name": "Dmax",
+        "slug": "dmax"
+    },
+    {
+        "brand_id": "34",
+        "name": "Trroper",
+        "slug": "trroper"
+    },
+    {
+        "brand_id": "35",
+        "name": "Daily",
+        "slug": "daily"
+    },
+    {
+        "brand_id": "35",
+        "name": "Massif",
+        "slug": "massif"
+    },
+    {
+        "brand_id": "36",
+        "name": "Daily",
+        "slug": "daily"
+    },
+    {
+        "brand_id": "36",
+        "name": "Duty",
+        "slug": "duty"
+    },
+    {
+        "brand_id": "37",
+        "name": "Serie Xj",
+        "slug": "serie-xj"
+    },
+    {
+        "brand_id": "37",
+        "name": "Serie Xk",
+        "slug": "serie-xk"
+    },
+    {
+        "brand_id": "37",
+        "name": "Xj",
+        "slug": "xj"
+    },
+    {
+        "brand_id": "37",
+        "name": "Stype",
+        "slug": "stype"
+    },
+    {
+        "brand_id": "37",
+        "name": "Xf",
+        "slug": "xf"
+    },
+    {
+        "brand_id": "37",
+        "name": "Xtype",
+        "slug": "xtype"
+    },
+    {
+        "brand_id": "38",
+        "name": "Wrangler",
+        "slug": "wrangler"
+    },
+    {
+        "brand_id": "38",
+        "name": "Cherokee",
+        "slug": "cherokee"
+    },
+    {
+        "brand_id": "38",
+        "name": "Grand Cherokee",
+        "slug": "grand-cherokee"
+    },
+    {
+        "brand_id": "38",
+        "name": "Commander",
+        "slug": "commander"
+    },
+    {
+        "brand_id": "38",
+        "name": "Compass",
+        "slug": "compass"
+    },
+    {
+        "brand_id": "38",
+        "name": "Wrangler Unlimited",
+        "slug": "wrangler-unlimited"
+    },
+    {
+        "brand_id": "38",
+        "name": "Patriot",
+        "slug": "patriot"
+    },
+    {
+        "brand_id": "39",
+        "name": "Sportage",
+        "slug": "sportage"
+    },
+    {
+        "brand_id": "39",
+        "name": "Sephia",
+        "slug": "sephia"
+    },
+    {
+        "brand_id": "39",
+        "name": "Sephia Ii",
+        "slug": "sephia-ii"
+    },
+    {
+        "brand_id": "39",
+        "name": "Pride",
+        "slug": "pride"
+    },
+    {
+        "brand_id": "39",
+        "name": "Clarus",
+        "slug": "clarus"
+    },
+    {
+        "brand_id": "39",
+        "name": "Shuma",
+        "slug": "shuma"
+    },
+    {
+        "brand_id": "39",
+        "name": "Carnival",
+        "slug": "carnival"
+    },
+    {
+        "brand_id": "39",
+        "name": "Joice",
+        "slug": "joice"
+    },
+    {
+        "brand_id": "39",
+        "name": "Magentis",
+        "slug": "magentis"
+    },
+    {
+        "brand_id": "39",
+        "name": "Carens",
+        "slug": "carens"
+    },
+    {
+        "brand_id": "39",
+        "name": "Rio",
+        "slug": "rio"
+    },
+    {
+        "brand_id": "39",
+        "name": "Cerato",
+        "slug": "cerato"
+    },
+    {
+        "brand_id": "39",
+        "name": "Sorento",
+        "slug": "sorento"
+    },
+    {
+        "brand_id": "39",
+        "name": "Opirus",
+        "slug": "opirus"
+    },
+    {
+        "brand_id": "39",
+        "name": "Picanto",
+        "slug": "picanto"
+    },
+    {
+        "brand_id": "39",
+        "name": "Ceed",
+        "slug": "ceed"
+    },
+    {
+        "brand_id": "39",
+        "name": "Ceed Sporty Wagon",
+        "slug": "ceed-sporty-wagon"
+    },
+    {
+        "brand_id": "39",
+        "name": "Proceed",
+        "slug": "proceed"
+    },
+    {
+        "brand_id": "39",
+        "name": "K2500 Frontier",
+        "slug": "k2500-frontier"
+    },
+    {
+        "brand_id": "39",
+        "name": "K2500",
+        "slug": "k2500"
+    },
+    {
+        "brand_id": "39",
+        "name": "Soul",
+        "slug": "soul"
+    },
+    {
+        "brand_id": "39",
+        "name": "Venga",
+        "slug": "venga"
+    },
+    {
+        "brand_id": "39",
+        "name": "Optima",
+        "slug": "optima"
+    },
+    {
+        "brand_id": "39",
+        "name": "Ceed Sportswagon",
+        "slug": "ceed-sportswagon"
+    },
+    {
+        "brand_id": "40",
+        "name": "Samara",
+        "slug": "samara"
+    },
+    {
+        "brand_id": "40",
+        "name": "Niva",
+        "slug": "niva"
+    },
+    {
+        "brand_id": "40",
+        "name": "Sagona",
+        "slug": "sagona"
+    },
+    {
+        "brand_id": "40",
+        "name": "Stawra 2110",
+        "slug": "stawra-2110"
+    },
+    {
+        "brand_id": "40",
+        "name": "214",
+        "slug": "214"
+    },
+    {
+        "brand_id": "40",
+        "name": "Kalina",
+        "slug": "kalina"
+    },
+    {
+        "brand_id": "40",
+        "name": "Serie 2100",
+        "slug": "serie-2100"
+    },
+    {
+        "brand_id": "40",
+        "name": "Priora",
+        "slug": "priora"
+    },
+    {
+        "brand_id": "41",
+        "name": "Gallardo",
+        "slug": "gallardo"
+    },
+    {
+        "brand_id": "41",
+        "name": "Murcielago",
+        "slug": "murcielago"
+    },
+    {
+        "brand_id": "41",
+        "name": "Aventador",
+        "slug": "aventador"
+    },
+    {
+        "brand_id": "42",
+        "name": "Delta",
+        "slug": "delta"
+    },
+    {
+        "brand_id": "42",
+        "name": "K",
+        "slug": "k"
+    },
+    {
+        "brand_id": "42",
+        "name": "Y10",
+        "slug": "y10"
+    },
+    {
+        "brand_id": "42",
+        "name": "Dedra",
+        "slug": "dedra"
+    },
+    {
+        "brand_id": "42",
+        "name": "Lybra",
+        "slug": "lybra"
+    },
+    {
+        "brand_id": "42",
+        "name": "Z",
+        "slug": "z"
+    },
+    {
+        "brand_id": "42",
+        "name": "Y",
+        "slug": "y"
+    },
+    {
+        "brand_id": "42",
+        "name": "Ypsilon",
+        "slug": "ypsilon"
+    },
+    {
+        "brand_id": "42",
+        "name": "Thesis",
+        "slug": "thesis"
+    },
+    {
+        "brand_id": "42",
+        "name": "Phedra",
+        "slug": "phedra"
+    },
+    {
+        "brand_id": "42",
+        "name": "Musa",
+        "slug": "musa"
+    },
+    {
+        "brand_id": "42",
+        "name": "Thema",
+        "slug": "thema"
+    },
+    {
+        "brand_id": "42",
+        "name": "Zeta",
+        "slug": "zeta"
+    },
+    {
+        "brand_id": "42",
+        "name": "Kappa",
+        "slug": "kappa"
+    },
+    {
+        "brand_id": "42",
+        "name": "Trevi",
+        "slug": "trevi"
+    },
+    {
+        "brand_id": "42",
+        "name": "Prisma",
+        "slug": "prisma"
+    },
+    {
+        "brand_id": "42",
+        "name": "A112",
+        "slug": "a112"
+    },
+    {
+        "brand_id": "42",
+        "name": "Ypsilon Elefantino",
+        "slug": "ypsilon-elefantino"
+    },
+    {
+        "brand_id": "42",
+        "name": "Voyager",
+        "slug": "voyager"
+    },
+    {
+        "brand_id": "43",
+        "name": "Range Rover",
+        "slug": "range-rover"
+    },
+    {
+        "brand_id": "43",
+        "name": "Defender",
+        "slug": "defender"
+    },
+    {
+        "brand_id": "43",
+        "name": "Discovery",
+        "slug": "discovery"
+    },
+    {
+        "brand_id": "43",
+        "name": "Freelander",
+        "slug": "freelander"
+    },
+    {
+        "brand_id": "43",
+        "name": "Range Rover Sport",
+        "slug": "range-rover-sport"
+    },
+    {
+        "brand_id": "43",
+        "name": "Discovery 4",
+        "slug": "discovery-4"
+    },
+    {
+        "brand_id": "43",
+        "name": "Range Rover Evoque",
+        "slug": "range-rover-evoque"
+    },
+    {
+        "brand_id": "44",
+        "name": "Maxus",
+        "slug": "maxus"
+    },
+    {
+        "brand_id": "45",
+        "name": "Ls400",
+        "slug": "ls400"
+    },
+    {
+        "brand_id": "45",
+        "name": "Ls430",
+        "slug": "ls430"
+    },
+    {
+        "brand_id": "45",
+        "name": "Gs300",
+        "slug": "gs300"
+    },
+    {
+        "brand_id": "45",
+        "name": "Is200",
+        "slug": "is200"
+    },
+    {
+        "brand_id": "45",
+        "name": "Rx300",
+        "slug": "rx300"
+    },
+    {
+        "brand_id": "45",
+        "name": "Gs430",
+        "slug": "gs430"
+    },
+    {
+        "brand_id": "45",
+        "name": "Gs460",
+        "slug": "gs460"
+    },
+    {
+        "brand_id": "45",
+        "name": "Sc430",
+        "slug": "sc430"
+    },
+    {
+        "brand_id": "45",
+        "name": "Is300",
+        "slug": "is300"
+    },
+    {
+        "brand_id": "45",
+        "name": "Is250",
+        "slug": "is250"
+    },
+    {
+        "brand_id": "45",
+        "name": "Rx400h",
+        "slug": "rx400h"
+    },
+    {
+        "brand_id": "45",
+        "name": "Is220d",
+        "slug": "is220d"
+    },
+    {
+        "brand_id": "45",
+        "name": "Rx350",
+        "slug": "rx350"
+    },
+    {
+        "brand_id": "45",
+        "name": "Gs450h",
+        "slug": "gs450h"
+    },
+    {
+        "brand_id": "45",
+        "name": "Ls460",
+        "slug": "ls460"
+    },
+    {
+        "brand_id": "45",
+        "name": "Ls600h",
+        "slug": "ls600h"
+    },
+    {
+        "brand_id": "45",
+        "name": "Ls",
+        "slug": "ls"
+    },
+    {
+        "brand_id": "45",
+        "name": "Gs",
+        "slug": "gs"
+    },
+    {
+        "brand_id": "45",
+        "name": "Is",
+        "slug": "is"
+    },
+    {
+        "brand_id": "45",
+        "name": "Sc",
+        "slug": "sc"
+    },
+    {
+        "brand_id": "45",
+        "name": "Rx",
+        "slug": "rx"
+    },
+    {
+        "brand_id": "45",
+        "name": "Ct",
+        "slug": "ct"
+    },
+    {
+        "brand_id": "46",
+        "name": "Elise",
+        "slug": "elise"
+    },
+    {
+        "brand_id": "46",
+        "name": "Exige",
+        "slug": "exige"
+    },
+    {
+        "brand_id": "47",
+        "name": "Bolero Pickup",
+        "slug": "bolero-pickup"
+    },
+    {
+        "brand_id": "47",
+        "name": "Goa Pickup",
+        "slug": "goa-pickup"
+    },
+    {
+        "brand_id": "47",
+        "name": "Goa",
+        "slug": "goa"
+    },
+    {
+        "brand_id": "47",
+        "name": "Cj",
+        "slug": "cj"
+    },
+    {
+        "brand_id": "47",
+        "name": "Pikup",
+        "slug": "pikup"
+    },
+    {
+        "brand_id": "47",
+        "name": "Thar",
+        "slug": "thar"
+    },
+    {
+        "brand_id": "48",
+        "name": "Ghibli",
+        "slug": "ghibli"
+    },
+    {
+        "brand_id": "48",
+        "name": "Shamal",
+        "slug": "shamal"
+    },
+    {
+        "brand_id": "48",
+        "name": "Quattroporte",
+        "slug": "quattroporte"
+    },
+    {
+        "brand_id": "48",
+        "name": "3200 Gt",
+        "slug": "3200-gt"
+    },
+    {
+        "brand_id": "48",
+        "name": "Coupe",
+        "slug": "coupe"
+    },
+    {
+        "brand_id": "48",
+        "name": "Spyder",
+        "slug": "spyder"
+    },
+    {
+        "brand_id": "48",
+        "name": "Gransport",
+        "slug": "gransport"
+    },
+    {
+        "brand_id": "48",
+        "name": "Granturismo",
+        "slug": "granturismo"
+    },
+    {
+        "brand_id": "48",
+        "name": "430",
+        "slug": "430"
+    },
+    {
+        "brand_id": "48",
+        "name": "Biturbo",
+        "slug": "biturbo"
+    },
+    {
+        "brand_id": "48",
+        "name": "228",
+        "slug": "228"
+    },
+    {
+        "brand_id": "48",
+        "name": "224",
+        "slug": "224"
+    },
+    {
+        "brand_id": "48",
+        "name": "Grancabrio",
+        "slug": "grancabrio"
+    },
+    {
+        "brand_id": "49",
+        "name": "Maybach",
+        "slug": "maybach"
+    },
+    {
+        "brand_id": "50",
+        "name": "Xedos 6",
+        "slug": "xedos-6"
+    },
+    {
+        "brand_id": "50",
+        "name": "626",
+        "slug": "626"
+    },
+    {
+        "brand_id": "50",
+        "name": "121",
+        "slug": "121"
+    },
+    {
+        "brand_id": "50",
+        "name": "Xedos 9",
+        "slug": "xedos-9"
+    },
+    {
+        "brand_id": "50",
+        "name": "323",
+        "slug": "323"
+    },
+    {
+        "brand_id": "50",
+        "name": "Mx3",
+        "slug": "mx3"
+    },
+    {
+        "brand_id": "50",
+        "name": "Rx7",
+        "slug": "rx7"
+    },
+    {
+        "brand_id": "50",
+        "name": "Mx5",
+        "slug": "mx5"
+    },
+    {
+        "brand_id": "50",
+        "name": "Mazda3",
+        "slug": "mazda3"
+    },
+    {
+        "brand_id": "50",
+        "name": "Mpv",
+        "slug": "mpv"
+    },
+    {
+        "brand_id": "50",
+        "name": "Demio",
+        "slug": "demio"
+    },
+    {
+        "brand_id": "50",
+        "name": "Premacy",
+        "slug": "premacy"
+    },
+    {
+        "brand_id": "50",
+        "name": "Tribute",
+        "slug": "tribute"
+    },
+    {
+        "brand_id": "50",
+        "name": "Mazda6",
+        "slug": "mazda6"
+    },
+    {
+        "brand_id": "50",
+        "name": "Mazda2",
+        "slug": "mazda2"
+    },
+    {
+        "brand_id": "50",
+        "name": "Rx8",
+        "slug": "rx8"
+    },
+    {
+        "brand_id": "50",
+        "name": "Mazda5",
+        "slug": "mazda5"
+    },
+    {
+        "brand_id": "50",
+        "name": "Cx7",
+        "slug": "cx7"
+    },
+    {
+        "brand_id": "50",
+        "name": "Serie B",
+        "slug": "serie-b"
+    },
+    {
+        "brand_id": "50",
+        "name": "B2500",
+        "slug": "b2500"
+    },
+    {
+        "brand_id": "50",
+        "name": "Bt50",
+        "slug": "bt50"
+    },
+    {
+        "brand_id": "50",
+        "name": "Mx6",
+        "slug": "mx6"
+    },
+    {
+        "brand_id": "50",
+        "name": "929",
+        "slug": "929"
+    },
+    {
+        "brand_id": "50",
+        "name": "Cx5",
+        "slug": "cx5"
+    },
+    {
+        "brand_id": "51",
+        "name": "Clase C",
+        "slug": "clase-c"
+    },
+    {
+        "brand_id": "51",
+        "name": "Clase E",
+        "slug": "clase-e"
+    },
+    {
+        "brand_id": "51",
+        "name": "Clase Sl",
+        "slug": "clase-sl"
+    },
+    {
+        "brand_id": "51",
+        "name": "Clase S",
+        "slug": "clase-s"
+    },
+    {
+        "brand_id": "51",
+        "name": "Clase Cl",
+        "slug": "clase-cl"
+    },
+    {
+        "brand_id": "51",
+        "name": "Clase G",
+        "slug": "clase-g"
+    },
+    {
+        "brand_id": "51",
+        "name": "Clase Slk",
+        "slug": "clase-slk"
+    },
+    {
+        "brand_id": "51",
+        "name": "Clase V",
+        "slug": "clase-v"
+    },
+    {
+        "brand_id": "51",
+        "name": "Viano",
+        "slug": "viano"
+    },
+    {
+        "brand_id": "51",
+        "name": "Clase Clk",
+        "slug": "clase-clk"
+    },
+    {
+        "brand_id": "51",
+        "name": "Clase A",
+        "slug": "clase-a"
+    },
+    {
+        "brand_id": "51",
+        "name": "Clase M",
+        "slug": "clase-m"
+    },
+    {
+        "brand_id": "51",
+        "name": "Vaneo",
+        "slug": "vaneo"
+    },
+    {
+        "brand_id": "51",
+        "name": "Slklasse",
+        "slug": "slklasse"
+    },
+    {
+        "brand_id": "51",
+        "name": "Slr Mclaren",
+        "slug": "slr-mclaren"
+    },
+    {
+        "brand_id": "51",
+        "name": "Clase Cls",
+        "slug": "clase-cls"
+    },
+    {
+        "brand_id": "51",
+        "name": "Clase R",
+        "slug": "clase-r"
+    },
+    {
+        "brand_id": "51",
+        "name": "Clase Gl",
+        "slug": "clase-gl"
+    },
+    {
+        "brand_id": "51",
+        "name": "Clase B",
+        "slug": "clase-b"
+    },
+    {
+        "brand_id": "51",
+        "name": "100d",
+        "slug": "100d"
+    },
+    {
+        "brand_id": "51",
+        "name": "140d",
+        "slug": "140d"
+    },
+    {
+        "brand_id": "51",
+        "name": "180d",
+        "slug": "180d"
+    },
+    {
+        "brand_id": "51",
+        "name": "Sprinter",
+        "slug": "sprinter"
+    },
+    {
+        "brand_id": "51",
+        "name": "Vito",
+        "slug": "vito"
+    },
+    {
+        "brand_id": "51",
+        "name": "Transporter",
+        "slug": "transporter"
+    },
+    {
+        "brand_id": "51",
+        "name": "280",
+        "slug": "280"
+    },
+    {
+        "brand_id": "51",
+        "name": "220",
+        "slug": "220"
+    },
+    {
+        "brand_id": "51",
+        "name": "200",
+        "slug": "200"
+    },
+    {
+        "brand_id": "51",
+        "name": "190",
+        "slug": "190"
+    },
+    {
+        "brand_id": "51",
+        "name": "600",
+        "slug": "600"
+    },
+    {
+        "brand_id": "51",
+        "name": "400",
+        "slug": "400"
+    },
+    {
+        "brand_id": "51",
+        "name": "Clase Sl R129",
+        "slug": "clase-sl-r129"
+    },
+    {
+        "brand_id": "51",
+        "name": "300",
+        "slug": "300"
+    },
+    {
+        "brand_id": "51",
+        "name": "500",
+        "slug": "500"
+    },
+    {
+        "brand_id": "51",
+        "name": "420",
+        "slug": "420"
+    },
+    {
+        "brand_id": "51",
+        "name": "260",
+        "slug": "260"
+    },
+    {
+        "brand_id": "51",
+        "name": "230",
+        "slug": "230"
+    },
+    {
+        "brand_id": "51",
+        "name": "Clase Clc",
+        "slug": "clase-clc"
+    },
+    {
+        "brand_id": "51",
+        "name": "Clase Glk",
+        "slug": "clase-glk"
+    },
+    {
+        "brand_id": "51",
+        "name": "Sls Amg",
+        "slug": "sls-amg"
+    },
+    {
+        "brand_id": "52",
+        "name": "Mgf",
+        "slug": "mgf"
+    },
+    {
+        "brand_id": "52",
+        "name": "Tf",
+        "slug": "tf"
+    },
+    {
+        "brand_id": "52",
+        "name": "Zr",
+        "slug": "zr"
+    },
+    {
+        "brand_id": "52",
+        "name": "Zs",
+        "slug": "zs"
+    },
+    {
+        "brand_id": "52",
+        "name": "Zt",
+        "slug": "zt"
+    },
+    {
+        "brand_id": "52",
+        "name": "Ztt",
+        "slug": "ztt"
+    },
+    {
+        "brand_id": "52",
+        "name": "Mini",
+        "slug": "mini"
+    },
+    {
+        "brand_id": "52",
+        "name": "Countryman",
+        "slug": "countryman"
+    },
+    {
+        "brand_id": "52",
+        "name": "Paceman",
+        "slug": "paceman"
+    },
+    {
+        "brand_id": "53",
+        "name": "Mini",
+        "slug": "mini"
+    },
+    {
+        "brand_id": "53",
+        "name": "Countryman",
+        "slug": "countryman"
+    },
+    {
+        "brand_id": "53",
+        "name": "Paceman",
+        "slug": "paceman"
+    },
+    {
+        "brand_id": "54",
+        "name": "Montero",
+        "slug": "montero"
+    },
+    {
+        "brand_id": "54",
+        "name": "Galant",
+        "slug": "galant"
+    },
+    {
+        "brand_id": "54",
+        "name": "Colt",
+        "slug": "colt"
+    },
+    {
+        "brand_id": "54",
+        "name": "Space Wagon",
+        "slug": "space-wagon"
+    },
+    {
+        "brand_id": "54",
+        "name": "Space Runner",
+        "slug": "space-runner"
+    },
+    {
+        "brand_id": "54",
+        "name": "Space Gear",
+        "slug": "space-gear"
+    },
+    {
+        "brand_id": "54",
+        "name": "3000 Gt",
+        "slug": "3000-gt"
+    },
+    {
+        "brand_id": "54",
+        "name": "Carisma",
+        "slug": "carisma"
+    },
+    {
+        "brand_id": "54",
+        "name": "Eclipse",
+        "slug": "eclipse"
+    },
+    {
+        "brand_id": "54",
+        "name": "Space Star",
+        "slug": "space-star"
+    },
+    {
+        "brand_id": "54",
+        "name": "Montero Sport",
+        "slug": "montero-sport"
+    },
+    {
+        "brand_id": "54",
+        "name": "Montero Io",
+        "slug": "montero-io"
+    },
+    {
+        "brand_id": "54",
+        "name": "Outlander",
+        "slug": "outlander"
+    },
+    {
+        "brand_id": "54",
+        "name": "Lancer",
+        "slug": "lancer"
+    },
+    {
+        "brand_id": "54",
+        "name": "Grandis",
+        "slug": "grandis"
+    },
+    {
+        "brand_id": "54",
+        "name": "L200",
+        "slug": "l200"
+    },
+    {
+        "brand_id": "54",
+        "name": "Canter",
+        "slug": "canter"
+    },
+    {
+        "brand_id": "54",
+        "name": "300 Gt",
+        "slug": "300-gt"
+    },
+    {
+        "brand_id": "54",
+        "name": "Asx",
+        "slug": "asx"
+    },
+    {
+        "brand_id": "54",
+        "name": "Imiev",
+        "slug": "imiev"
+    },
+    {
+        "brand_id": "55",
+        "name": "44",
+        "slug": "44"
+    },
+    {
+        "brand_id": "55",
+        "name": "Plus 8",
+        "slug": "plus-8"
+    },
+    {
+        "brand_id": "55",
+        "name": "Aero 8",
+        "slug": "aero-8"
+    },
+    {
+        "brand_id": "55",
+        "name": "V6",
+        "slug": "v6"
+    },
+    {
+        "brand_id": "55",
+        "name": "Roadster",
+        "slug": "roadster"
+    },
+    {
+        "brand_id": "55",
+        "name": "4",
+        "slug": "4"
+    },
+    {
+        "brand_id": "55",
+        "name": "Plus 4",
+        "slug": "plus-4"
+    },
+    {
+        "brand_id": "56",
+        "name": "Terrano Ii",
+        "slug": "terrano-ii"
+    },
+    {
+        "brand_id": "56",
+        "name": "Terrano",
+        "slug": "terrano"
+    },
+    {
+        "brand_id": "56",
+        "name": "Micra",
+        "slug": "micra"
+    },
+    {
+        "brand_id": "56",
+        "name": "Sunny",
+        "slug": "sunny"
+    },
+    {
+        "brand_id": "56",
+        "name": "Primera",
+        "slug": "primera"
+    },
+    {
+        "brand_id": "56",
+        "name": "Serena",
+        "slug": "serena"
+    },
+    {
+        "brand_id": "56",
+        "name": "Patrol",
+        "slug": "patrol"
+    },
+    {
+        "brand_id": "56",
+        "name": "Maxima Qx",
+        "slug": "maxima-qx"
+    },
+    {
+        "brand_id": "56",
+        "name": "200 Sx",
+        "slug": "200-sx"
+    },
+    {
+        "brand_id": "56",
+        "name": "300 Zx",
+        "slug": "300-zx"
+    },
+    {
+        "brand_id": "56",
+        "name": "Patrol Gr",
+        "slug": "patrol-gr"
+    },
+    {
+        "brand_id": "56",
+        "name": "100 Nx",
+        "slug": "100-nx"
+    },
+    {
+        "brand_id": "56",
+        "name": "Almera",
+        "slug": "almera"
+    },
+    {
+        "brand_id": "56",
+        "name": "Pathfinder",
+        "slug": "pathfinder"
+    },
+    {
+        "brand_id": "56",
+        "name": "Almera Tino",
+        "slug": "almera-tino"
+    },
+    {
+        "brand_id": "56",
+        "name": "Xtrail",
+        "slug": "xtrail"
+    },
+    {
+        "brand_id": "56",
+        "name": "350z",
+        "slug": "350z"
+    },
+    {
+        "brand_id": "56",
+        "name": "Murano",
+        "slug": "murano"
+    },
+    {
+        "brand_id": "56",
+        "name": "Note",
+        "slug": "note"
+    },
+    {
+        "brand_id": "56",
+        "name": "Qashqai",
+        "slug": "qashqai"
+    },
+    {
+        "brand_id": "56",
+        "name": "Tiida",
+        "slug": "tiida"
+    },
+    {
+        "brand_id": "56",
+        "name": "Vanette",
+        "slug": "vanette"
+    },
+    {
+        "brand_id": "56",
+        "name": "Trade",
+        "slug": "trade"
+    },
+    {
+        "brand_id": "56",
+        "name": "Vanette Cargo",
+        "slug": "vanette-cargo"
+    },
+    {
+        "brand_id": "56",
+        "name": "Pickup",
+        "slug": "pickup"
+    },
+    {
+        "brand_id": "56",
+        "name": "Navara",
+        "slug": "navara"
+    },
+    {
+        "brand_id": "56",
+        "name": "Cabstar E",
+        "slug": "cabstar-e"
+    },
+    {
+        "brand_id": "56",
+        "name": "Cabstar",
+        "slug": "cabstar"
+    },
+    {
+        "brand_id": "56",
+        "name": "Maxima",
+        "slug": "maxima"
+    },
+    {
+        "brand_id": "56",
+        "name": "Camion",
+        "slug": "camion"
+    },
+    {
+        "brand_id": "56",
+        "name": "Prairie",
+        "slug": "prairie"
+    },
+    {
+        "brand_id": "56",
+        "name": "Bluebird",
+        "slug": "bluebird"
+    },
+    {
+        "brand_id": "56",
+        "name": "Np300 Pick Up",
+        "slug": "np300-pick-up"
+    },
+    {
+        "brand_id": "56",
+        "name": "Qashqai2",
+        "slug": "qashqai2"
+    },
+    {
+        "brand_id": "56",
+        "name": "Pixo",
+        "slug": "pixo"
+    },
+    {
+        "brand_id": "56",
+        "name": "Gtr",
+        "slug": "gtr"
+    },
+    {
+        "brand_id": "56",
+        "name": "370z",
+        "slug": "370z"
+    },
+    {
+        "brand_id": "56",
+        "name": "Cube",
+        "slug": "cube"
+    },
+    {
+        "brand_id": "56",
+        "name": "Juke",
+        "slug": "juke"
+    },
+    {
+        "brand_id": "56",
+        "name": "Leaf",
+        "slug": "leaf"
+    },
+    {
+        "brand_id": "56",
+        "name": "Evalia",
+        "slug": "evalia"
+    },
+    {
+        "brand_id": "57",
+        "name": "Astra",
+        "slug": "astra"
+    },
+    {
+        "brand_id": "57",
+        "name": "Vectra",
+        "slug": "vectra"
+    },
+    {
+        "brand_id": "57",
+        "name": "Calibra",
+        "slug": "calibra"
+    },
+    {
+        "brand_id": "57",
+        "name": "Corsa",
+        "slug": "corsa"
+    },
+    {
+        "brand_id": "57",
+        "name": "Omega",
+        "slug": "omega"
+    },
+    {
+        "brand_id": "57",
+        "name": "Frontera",
+        "slug": "frontera"
+    },
+    {
+        "brand_id": "57",
+        "name": "Tigra",
+        "slug": "tigra"
+    },
+    {
+        "brand_id": "57",
+        "name": "Monterey",
+        "slug": "monterey"
+    },
+    {
+        "brand_id": "57",
+        "name": "Sintra",
+        "slug": "sintra"
+    },
+    {
+        "brand_id": "57",
+        "name": "Zafira",
+        "slug": "zafira"
+    },
+    {
+        "brand_id": "57",
+        "name": "Agila",
+        "slug": "agila"
+    },
+    {
+        "brand_id": "57",
+        "name": "Speedster",
+        "slug": "speedster"
+    },
+    {
+        "brand_id": "57",
+        "name": "Signum",
+        "slug": "signum"
+    },
+    {
+        "brand_id": "57",
+        "name": "Meriva",
+        "slug": "meriva"
+    },
+    {
+        "brand_id": "57",
+        "name": "Antara",
+        "slug": "antara"
+    },
+    {
+        "brand_id": "57",
+        "name": "Gt",
+        "slug": "gt"
+    },
+    {
+        "brand_id": "57",
+        "name": "Combo",
+        "slug": "combo"
+    },
+    {
+        "brand_id": "57",
+        "name": "Movano",
+        "slug": "movano"
+    },
+    {
+        "brand_id": "57",
+        "name": "Vivaro",
+        "slug": "vivaro"
+    },
+    {
+        "brand_id": "57",
+        "name": "Kadett",
+        "slug": "kadett"
+    },
+    {
+        "brand_id": "57",
+        "name": "Monza",
+        "slug": "monza"
+    },
+    {
+        "brand_id": "57",
+        "name": "Senator",
+        "slug": "senator"
+    },
+    {
+        "brand_id": "57",
+        "name": "Rekord",
+        "slug": "rekord"
+    },
+    {
+        "brand_id": "57",
+        "name": "Manta",
+        "slug": "manta"
+    },
+    {
+        "brand_id": "57",
+        "name": "Ascona",
+        "slug": "ascona"
+    },
+    {
+        "brand_id": "57",
+        "name": "Insignia",
+        "slug": "insignia"
+    },
+    {
+        "brand_id": "57",
+        "name": "Zafira Tourer",
+        "slug": "zafira-tourer"
+    },
+    {
+        "brand_id": "57",
+        "name": "Ampera",
+        "slug": "ampera"
+    },
+    {
+        "brand_id": "57",
+        "name": "Mokka",
+        "slug": "mokka"
+    },
+    {
+        "brand_id": "57",
+        "name": "Adam",
+        "slug": "adam"
+    },
+    {
+        "brand_id": "58",
+        "name": "306",
+        "slug": "306"
+    },
+    {
+        "brand_id": "58",
+        "name": "605",
+        "slug": "605"
+    },
+    {
+        "brand_id": "58",
+        "name": "106",
+        "slug": "106"
+    },
+    {
+        "brand_id": "58",
+        "name": "205",
+        "slug": "205"
+    },
+    {
+        "brand_id": "58",
+        "name": "405",
+        "slug": "405"
+    },
+    {
+        "brand_id": "58",
+        "name": "406",
+        "slug": "406"
+    },
+    {
+        "brand_id": "58",
+        "name": "806",
+        "slug": "806"
+    },
+    {
+        "brand_id": "58",
+        "name": "807",
+        "slug": "807"
+    },
+    {
+        "brand_id": "58",
+        "name": "407",
+        "slug": "407"
+    },
+    {
+        "brand_id": "58",
+        "name": "307",
+        "slug": "307"
+    },
+    {
+        "brand_id": "58",
+        "name": "206",
+        "slug": "206"
+    },
+    {
+        "brand_id": "58",
+        "name": "607",
+        "slug": "607"
+    },
+    {
+        "brand_id": "58",
+        "name": "308",
+        "slug": "308"
+    },
+    {
+        "brand_id": "58",
+        "name": "307 Sw",
+        "slug": "307-sw"
+    },
+    {
+        "brand_id": "58",
+        "name": "206 Sw",
+        "slug": "206-sw"
+    },
+    {
+        "brand_id": "58",
+        "name": "407 Sw",
+        "slug": "407-sw"
+    },
+    {
+        "brand_id": "58",
+        "name": "1007",
+        "slug": "1007"
+    },
+    {
+        "brand_id": "58",
+        "name": "107",
+        "slug": "107"
+    },
+    {
+        "brand_id": "58",
+        "name": "207",
+        "slug": "207"
+    },
+    {
+        "brand_id": "58",
+        "name": "4007",
+        "slug": "4007"
+    },
+    {
+        "brand_id": "58",
+        "name": "Boxer",
+        "slug": "boxer"
+    },
+    {
+        "brand_id": "58",
+        "name": "Partner",
+        "slug": "partner"
+    },
+    {
+        "brand_id": "58",
+        "name": "J5",
+        "slug": "j5"
+    },
+    {
+        "brand_id": "58",
+        "name": "604",
+        "slug": "604"
+    },
+    {
+        "brand_id": "58",
+        "name": "505",
+        "slug": "505"
+    },
+    {
+        "brand_id": "58",
+        "name": "309",
+        "slug": "309"
+    },
+    {
+        "brand_id": "58",
+        "name": "Bipper",
+        "slug": "bipper"
+    },
+    {
+        "brand_id": "58",
+        "name": "Partner Origin",
+        "slug": "partner-origin"
+    },
+    {
+        "brand_id": "58",
+        "name": "3008",
+        "slug": "3008"
+    },
+    {
+        "brand_id": "58",
+        "name": "5008",
+        "slug": "5008"
+    },
+    {
+        "brand_id": "58",
+        "name": "Rcz",
+        "slug": "rcz"
+    },
+    {
+        "brand_id": "58",
+        "name": "508",
+        "slug": "508"
+    },
+    {
+        "brand_id": "58",
+        "name": "Ion",
+        "slug": "ion"
+    },
+    {
+        "brand_id": "58",
+        "name": "208",
+        "slug": "208"
+    },
+    {
+        "brand_id": "58",
+        "name": "4008",
+        "slug": "4008"
+    },
+    {
+        "brand_id": "59",
+        "name": "Trans Sport",
+        "slug": "trans-sport"
+    },
+    {
+        "brand_id": "59",
+        "name": "Firebird",
+        "slug": "firebird"
+    },
+    {
+        "brand_id": "59",
+        "name": "Trans Am",
+        "slug": "trans-am"
+    },
+    {
+        "brand_id": "60",
+        "name": "911",
+        "slug": "911"
+    },
+    {
+        "brand_id": "60",
+        "name": "Boxster",
+        "slug": "boxster"
+    },
+    {
+        "brand_id": "60",
+        "name": "Cayenne",
+        "slug": "cayenne"
+    },
+    {
+        "brand_id": "60",
+        "name": "Carrera Gt",
+        "slug": "carrera-gt"
+    },
+    {
+        "brand_id": "60",
+        "name": "Cayman",
+        "slug": "cayman"
+    },
+    {
+        "brand_id": "60",
+        "name": "928",
+        "slug": "928"
+    },
+    {
+        "brand_id": "60",
+        "name": "968",
+        "slug": "968"
+    },
+    {
+        "brand_id": "60",
+        "name": "944",
+        "slug": "944"
+    },
+    {
+        "brand_id": "60",
+        "name": "924",
+        "slug": "924"
+    },
+    {
+        "brand_id": "60",
+        "name": "Panamera",
+        "slug": "panamera"
+    },
+    {
+        "brand_id": "60",
+        "name": "918",
+        "slug": "918"
+    },
+    {
+        "brand_id": "61",
+        "name": "Megane",
+        "slug": "megane"
+    },
+    {
+        "brand_id": "61",
+        "name": "Safrane",
+        "slug": "safrane"
+    },
+    {
+        "brand_id": "61",
+        "name": "Laguna",
+        "slug": "laguna"
+    },
+    {
+        "brand_id": "61",
+        "name": "Clio",
+        "slug": "clio"
+    },
+    {
+        "brand_id": "61",
+        "name": "Twingo",
+        "slug": "twingo"
+    },
+    {
+        "brand_id": "61",
+        "name": "Nevada",
+        "slug": "nevada"
+    },
+    {
+        "brand_id": "61",
+        "name": "Espace",
+        "slug": "espace"
+    },
+    {
+        "brand_id": "61",
+        "name": "Spider",
+        "slug": "spider"
+    },
+    {
+        "brand_id": "61",
+        "name": "Scenic",
+        "slug": "scenic"
+    },
+    {
+        "brand_id": "61",
+        "name": "Grand Espace",
+        "slug": "grand-espace"
+    },
+    {
+        "brand_id": "61",
+        "name": "Avantime",
+        "slug": "avantime"
+    },
+    {
+        "brand_id": "61",
+        "name": "Vel Satis",
+        "slug": "vel-satis"
+    },
+    {
+        "brand_id": "61",
+        "name": "Grand Scenic",
+        "slug": "grand-scenic"
+    },
+    {
+        "brand_id": "61",
+        "name": "Clio Campus",
+        "slug": "clio-campus"
+    },
+    {
+        "brand_id": "61",
+        "name": "Modus",
+        "slug": "modus"
+    },
+    {
+        "brand_id": "61",
+        "name": "Express",
+        "slug": "express"
+    },
+    {
+        "brand_id": "61",
+        "name": "Trafic",
+        "slug": "trafic"
+    },
+    {
+        "brand_id": "61",
+        "name": "Master",
+        "slug": "master"
+    },
+    {
+        "brand_id": "61",
+        "name": "Kangoo",
+        "slug": "kangoo"
+    },
+    {
+        "brand_id": "61",
+        "name": "Mascott",
+        "slug": "mascott"
+    },
+    {
+        "brand_id": "61",
+        "name": "Master Propulsion",
+        "slug": "master-propulsion"
+    },
+    {
+        "brand_id": "61",
+        "name": "Maxity",
+        "slug": "maxity"
+    },
+    {
+        "brand_id": "61",
+        "name": "R19",
+        "slug": "r19"
+    },
+    {
+        "brand_id": "61",
+        "name": "R25",
+        "slug": "r25"
+    },
+    {
+        "brand_id": "61",
+        "name": "R5",
+        "slug": "r5"
+    },
+    {
+        "brand_id": "61",
+        "name": "R21",
+        "slug": "r21"
+    },
+    {
+        "brand_id": "61",
+        "name": "R4",
+        "slug": "r4"
+    },
+    {
+        "brand_id": "61",
+        "name": "Alpine",
+        "slug": "alpine"
+    },
+    {
+        "brand_id": "61",
+        "name": "Fuego",
+        "slug": "fuego"
+    },
+    {
+        "brand_id": "61",
+        "name": "R18",
+        "slug": "r18"
+    },
+    {
+        "brand_id": "61",
+        "name": "R11",
+        "slug": "r11"
+    },
+    {
+        "brand_id": "61",
+        "name": "R9",
+        "slug": "r9"
+    },
+    {
+        "brand_id": "61",
+        "name": "R6",
+        "slug": "r6"
+    },
+    {
+        "brand_id": "61",
+        "name": "Grand Modus",
+        "slug": "grand-modus"
+    },
+    {
+        "brand_id": "61",
+        "name": "Kangoo Combi",
+        "slug": "kangoo-combi"
+    },
+    {
+        "brand_id": "61",
+        "name": "Koleos",
+        "slug": "koleos"
+    },
+    {
+        "brand_id": "61",
+        "name": "Fluence",
+        "slug": "fluence"
+    },
+    {
+        "brand_id": "61",
+        "name": "Wind",
+        "slug": "wind"
+    },
+    {
+        "brand_id": "61",
+        "name": "Latitude",
+        "slug": "latitude"
+    },
+    {
+        "brand_id": "61",
+        "name": "Grand Kangoo Combi",
+        "slug": "grand-kangoo-combi"
+    },
+    {
+        "brand_id": "62",
+        "name": "Siver Dawn",
+        "slug": "siver-dawn"
+    },
+    {
+        "brand_id": "62",
+        "name": "Silver Spur",
+        "slug": "silver-spur"
+    },
+    {
+        "brand_id": "62",
+        "name": "Park Ward",
+        "slug": "park-ward"
+    },
+    {
+        "brand_id": "62",
+        "name": "Silver Seraph",
+        "slug": "silver-seraph"
+    },
+    {
+        "brand_id": "62",
+        "name": "Corniche",
+        "slug": "corniche"
+    },
+    {
+        "brand_id": "62",
+        "name": "Phantom",
+        "slug": "phantom"
+    },
+    {
+        "brand_id": "62",
+        "name": "Touring",
+        "slug": "touring"
+    },
+    {
+        "brand_id": "62",
+        "name": "Silvier",
+        "slug": "silvier"
+    },
+    {
+        "brand_id": "63",
+        "name": "800",
+        "slug": "800"
+    },
+    {
+        "brand_id": "63",
+        "name": "600",
+        "slug": "600"
+    },
+    {
+        "brand_id": "63",
+        "name": "100",
+        "slug": "100"
+    },
+    {
+        "brand_id": "63",
+        "name": "200",
+        "slug": "200"
+    },
+    {
+        "brand_id": "63",
+        "name": "Coupe",
+        "slug": "coupe"
+    },
+    {
+        "brand_id": "63",
+        "name": "400",
+        "slug": "400"
+    },
+    {
+        "brand_id": "63",
+        "name": "45",
+        "slug": "45"
+    },
+    {
+        "brand_id": "63",
+        "name": "Cabriolet",
+        "slug": "cabriolet"
+    },
+    {
+        "brand_id": "63",
+        "name": "25",
+        "slug": "25"
+    },
+    {
+        "brand_id": "63",
+        "name": "Mini",
+        "slug": "mini"
+    },
+    {
+        "brand_id": "63",
+        "name": "75",
+        "slug": "75"
+    },
+    {
+        "brand_id": "63",
+        "name": "Streetwise",
+        "slug": "streetwise"
+    },
+    {
+        "brand_id": "63",
+        "name": "Sd",
+        "slug": "sd"
+    },
+    {
+        "brand_id": "64",
+        "name": "900",
+        "slug": "900"
+    },
+    {
+        "brand_id": "64",
+        "name": "93",
+        "slug": "93"
+    },
+    {
+        "brand_id": "64",
+        "name": "9000",
+        "slug": "9000"
+    },
+    {
+        "brand_id": "64",
+        "name": "95",
+        "slug": "95"
+    },
+    {
+        "brand_id": "64",
+        "name": "93x",
+        "slug": "93x"
+    },
+    {
+        "brand_id": "64",
+        "name": "94x",
+        "slug": "94x"
+    },
+    {
+        "brand_id": "65",
+        "name": "300",
+        "slug": "300"
+    },
+    {
+        "brand_id": "65",
+        "name": "350",
+        "slug": "350"
+    },
+    {
+        "brand_id": "65",
+        "name": "Anibal",
+        "slug": "anibal"
+    },
+    {
+        "brand_id": "65",
+        "name": "Anibal Pick Up",
+        "slug": "anibal-pick-up"
+    },
+    {
+        "brand_id": "66",
+        "name": "Ibiza",
+        "slug": "ibiza"
+    },
+    {
+        "brand_id": "66",
+        "name": "Cordoba",
+        "slug": "cordoba"
+    },
+    {
+        "brand_id": "66",
+        "name": "Toledo",
+        "slug": "toledo"
+    },
+    {
+        "brand_id": "66",
+        "name": "Marbella",
+        "slug": "marbella"
+    },
+    {
+        "brand_id": "66",
+        "name": "Alhambra",
+        "slug": "alhambra"
+    },
+    {
+        "brand_id": "66",
+        "name": "Arosa",
+        "slug": "arosa"
+    },
+    {
+        "brand_id": "66",
+        "name": "Leon",
+        "slug": "leon"
+    },
+    {
+        "brand_id": "66",
+        "name": "Altea",
+        "slug": "altea"
+    },
+    {
+        "brand_id": "66",
+        "name": "Altea Xl",
+        "slug": "altea-xl"
+    },
+    {
+        "brand_id": "66",
+        "name": "Altea Freetrack",
+        "slug": "altea-freetrack"
+    },
+    {
+        "brand_id": "66",
+        "name": "Terra",
+        "slug": "terra"
+    },
+    {
+        "brand_id": "66",
+        "name": "Inca",
+        "slug": "inca"
+    },
+    {
+        "brand_id": "66",
+        "name": "Malaga",
+        "slug": "malaga"
+    },
+    {
+        "brand_id": "66",
+        "name": "Ronda",
+        "slug": "ronda"
+    },
+    {
+        "brand_id": "66",
+        "name": "Exeo",
+        "slug": "exeo"
+    },
+    {
+        "brand_id": "66",
+        "name": "Mii",
+        "slug": "mii"
+    },
+    {
+        "brand_id": "67",
+        "name": "Felicia",
+        "slug": "felicia"
+    },
+    {
+        "brand_id": "67",
+        "name": "Forman",
+        "slug": "forman"
+    },
+    {
+        "brand_id": "67",
+        "name": "Octavia",
+        "slug": "octavia"
+    },
+    {
+        "brand_id": "67",
+        "name": "Octavia Tour",
+        "slug": "octavia-tour"
+    },
+    {
+        "brand_id": "67",
+        "name": "Fabia",
+        "slug": "fabia"
+    },
+    {
+        "brand_id": "67",
+        "name": "Superb",
+        "slug": "superb"
+    },
+    {
+        "brand_id": "67",
+        "name": "Roomster",
+        "slug": "roomster"
+    },
+    {
+        "brand_id": "67",
+        "name": "Scout",
+        "slug": "scout"
+    },
+    {
+        "brand_id": "67",
+        "name": "Pickup",
+        "slug": "pickup"
+    },
+    {
+        "brand_id": "67",
+        "name": "Favorit",
+        "slug": "favorit"
+    },
+    {
+        "brand_id": "67",
+        "name": "130",
+        "slug": "130"
+    },
+    {
+        "brand_id": "67",
+        "name": "S",
+        "slug": "s"
+    },
+    {
+        "brand_id": "67",
+        "name": "Yeti",
+        "slug": "yeti"
+    },
+    {
+        "brand_id": "67",
+        "name": "Citigo",
+        "slug": "citigo"
+    },
+    {
+        "brand_id": "67",
+        "name": "Rapid",
+        "slug": "rapid"
+    },
+    {
+        "brand_id": "68",
+        "name": "Smart",
+        "slug": "smart"
+    },
+    {
+        "brand_id": "68",
+        "name": "Citycoupe",
+        "slug": "citycoupe"
+    },
+    {
+        "brand_id": "68",
+        "name": "Fortwo",
+        "slug": "fortwo"
+    },
+    {
+        "brand_id": "68",
+        "name": "Cabrio",
+        "slug": "cabrio"
+    },
+    {
+        "brand_id": "68",
+        "name": "Crossblade",
+        "slug": "crossblade"
+    },
+    {
+        "brand_id": "68",
+        "name": "Roadster",
+        "slug": "roadster"
+    },
+    {
+        "brand_id": "68",
+        "name": "Forfour",
+        "slug": "forfour"
+    },
+    {
+        "brand_id": "69",
+        "name": "Korando",
+        "slug": "korando"
+    },
+    {
+        "brand_id": "69",
+        "name": "Family",
+        "slug": "family"
+    },
+    {
+        "brand_id": "69",
+        "name": "K4d",
+        "slug": "k4d"
+    },
+    {
+        "brand_id": "69",
+        "name": "Musso",
+        "slug": "musso"
+    },
+    {
+        "brand_id": "69",
+        "name": "Korando Kj",
+        "slug": "korando-kj"
+    },
+    {
+        "brand_id": "69",
+        "name": "Rexton",
+        "slug": "rexton"
+    },
+    {
+        "brand_id": "69",
+        "name": "Rexton Ii",
+        "slug": "rexton-ii"
+    },
+    {
+        "brand_id": "69",
+        "name": "Rodius",
+        "slug": "rodius"
+    },
+    {
+        "brand_id": "69",
+        "name": "Kyron",
+        "slug": "kyron"
+    },
+    {
+        "brand_id": "69",
+        "name": "Actyon",
+        "slug": "actyon"
+    },
+    {
+        "brand_id": "69",
+        "name": "Sports Pick Up",
+        "slug": "sports-pick-up"
+    },
+    {
+        "brand_id": "69",
+        "name": "Actyon Sports Pick Up",
+        "slug": "actyon-sports-pick-up"
+    },
+    {
+        "brand_id": "69",
+        "name": "Kodando",
+        "slug": "kodando"
+    },
+    {
+        "brand_id": "70",
+        "name": "Legacy",
+        "slug": "legacy"
+    },
+    {
+        "brand_id": "70",
+        "name": "Impreza",
+        "slug": "impreza"
+    },
+    {
+        "brand_id": "70",
+        "name": "Svx",
+        "slug": "svx"
+    },
+    {
+        "brand_id": "70",
+        "name": "Justy",
+        "slug": "justy"
+    },
+    {
+        "brand_id": "70",
+        "name": "Outback",
+        "slug": "outback"
+    },
+    {
+        "brand_id": "70",
+        "name": "Forester",
+        "slug": "forester"
+    },
+    {
+        "brand_id": "70",
+        "name": "G3x Justy",
+        "slug": "g3x-justy"
+    },
+    {
+        "brand_id": "70",
+        "name": "B9 Tribeca",
+        "slug": "b9-tribeca"
+    },
+    {
+        "brand_id": "70",
+        "name": "Xt",
+        "slug": "xt"
+    },
+    {
+        "brand_id": "70",
+        "name": "1800",
+        "slug": "1800"
+    },
+    {
+        "brand_id": "70",
+        "name": "Tribeca",
+        "slug": "tribeca"
+    },
+    {
+        "brand_id": "70",
+        "name": "Wrx Sti",
+        "slug": "wrx-sti"
+    },
+    {
+        "brand_id": "70",
+        "name": "Trezia",
+        "slug": "trezia"
+    },
+    {
+        "brand_id": "70",
+        "name": "Xv",
+        "slug": "xv"
+    },
+    {
+        "brand_id": "70",
+        "name": "Brz",
+        "slug": "brz"
+    },
+    {
+        "brand_id": "71",
+        "name": "Maruti",
+        "slug": "maruti"
+    },
+    {
+        "brand_id": "71",
+        "name": "Swift",
+        "slug": "swift"
+    },
+    {
+        "brand_id": "71",
+        "name": "Vitara",
+        "slug": "vitara"
+    },
+    {
+        "brand_id": "71",
+        "name": "Baleno",
+        "slug": "baleno"
+    },
+    {
+        "brand_id": "71",
+        "name": "Samurai",
+        "slug": "samurai"
+    },
+    {
+        "brand_id": "71",
+        "name": "Alto",
+        "slug": "alto"
+    },
+    {
+        "brand_id": "71",
+        "name": "Wagon R",
+        "slug": "wagon-r"
+    },
+    {
+        "brand_id": "71",
+        "name": "Jimny",
+        "slug": "jimny"
+    },
+    {
+        "brand_id": "71",
+        "name": "Grand Vitara",
+        "slug": "grand-vitara"
+    },
+    {
+        "brand_id": "71",
+        "name": "Ignis",
+        "slug": "ignis"
+    },
+    {
+        "brand_id": "71",
+        "name": "Liana",
+        "slug": "liana"
+    },
+    {
+        "brand_id": "71",
+        "name": "Grand Vitara Xl7",
+        "slug": "grand-vitara-xl7"
+    },
+    {
+        "brand_id": "71",
+        "name": "Sx4",
+        "slug": "sx4"
+    },
+    {
+        "brand_id": "71",
+        "name": "Splash",
+        "slug": "splash"
+    },
+    {
+        "brand_id": "71",
+        "name": "Kizashi",
+        "slug": "kizashi"
+    },
+    {
+        "brand_id": "72",
+        "name": "Samba",
+        "slug": "samba"
+    },
+    {
+        "brand_id": "72",
+        "name": "Tagora",
+        "slug": "tagora"
+    },
+    {
+        "brand_id": "72",
+        "name": "Solara",
+        "slug": "solara"
+    },
+    {
+        "brand_id": "72",
+        "name": "Horizon",
+        "slug": "horizon"
+    },
+    {
+        "brand_id": "73",
+        "name": "Telcosport",
+        "slug": "telcosport"
+    },
+    {
+        "brand_id": "73",
+        "name": "Telco",
+        "slug": "telco"
+    },
+    {
+        "brand_id": "73",
+        "name": "Sumo",
+        "slug": "sumo"
+    },
+    {
+        "brand_id": "73",
+        "name": "Safari",
+        "slug": "safari"
+    },
+    {
+        "brand_id": "73",
+        "name": "Indica",
+        "slug": "indica"
+    },
+    {
+        "brand_id": "73",
+        "name": "Indigo",
+        "slug": "indigo"
+    },
+    {
+        "brand_id": "73",
+        "name": "Grand Safari",
+        "slug": "grand-safari"
+    },
+    {
+        "brand_id": "73",
+        "name": "Tl Pick Up",
+        "slug": "tl-pick-up"
+    },
+    {
+        "brand_id": "73",
+        "name": "Xenon Pick Up",
+        "slug": "xenon-pick-up"
+    },
+    {
+        "brand_id": "73",
+        "name": "Vista",
+        "slug": "vista"
+    },
+    {
+        "brand_id": "73",
+        "name": "Xenon",
+        "slug": "xenon"
+    },
+    {
+        "brand_id": "73",
+        "name": "Aria",
+        "slug": "aria"
+    },
+    {
+        "brand_id": "74",
+        "name": "Carina E",
+        "slug": "carina-e"
+    },
+    {
+        "brand_id": "74",
+        "name": "4runner",
+        "slug": "4runner"
+    },
+    {
+        "brand_id": "74",
+        "name": "Camry",
+        "slug": "camry"
+    },
+    {
+        "brand_id": "74",
+        "name": "Rav4",
+        "slug": "rav4"
+    },
+    {
+        "brand_id": "74",
+        "name": "Celica",
+        "slug": "celica"
+    },
+    {
+        "brand_id": "74",
+        "name": "Supra",
+        "slug": "supra"
+    },
+    {
+        "brand_id": "74",
+        "name": "Paseo",
+        "slug": "paseo"
+    },
+    {
+        "brand_id": "74",
+        "name": "Land Cruiser 80",
+        "slug": "land-cruiser-80"
+    },
+    {
+        "brand_id": "74",
+        "name": "Land Cruiser 100",
+        "slug": "land-cruiser-100"
+    },
+    {
+        "brand_id": "74",
+        "name": "Land Cruiser",
+        "slug": "land-cruiser"
+    },
+    {
+        "brand_id": "74",
+        "name": "Land Cruiser 90",
+        "slug": "land-cruiser-90"
+    },
+    {
+        "brand_id": "74",
+        "name": "Corolla",
+        "slug": "corolla"
+    },
+    {
+        "brand_id": "74",
+        "name": "Auris",
+        "slug": "auris"
+    },
+    {
+        "brand_id": "74",
+        "name": "Avensis",
+        "slug": "avensis"
+    },
+    {
+        "brand_id": "74",
+        "name": "Picnic",
+        "slug": "picnic"
+    },
+    {
+        "brand_id": "74",
+        "name": "Yaris",
+        "slug": "yaris"
+    },
+    {
+        "brand_id": "74",
+        "name": "Yaris Verso",
+        "slug": "yaris-verso"
+    },
+    {
+        "brand_id": "74",
+        "name": "Mr2",
+        "slug": "mr2"
+    },
+    {
+        "brand_id": "74",
+        "name": "Previa",
+        "slug": "previa"
+    },
+    {
+        "brand_id": "74",
+        "name": "Prius",
+        "slug": "prius"
+    },
+    {
+        "brand_id": "74",
+        "name": "Avensis Verso",
+        "slug": "avensis-verso"
+    },
+    {
+        "brand_id": "74",
+        "name": "Corolla Verso",
+        "slug": "corolla-verso"
+    },
+    {
+        "brand_id": "74",
+        "name": "Corolla Sedan",
+        "slug": "corolla-sedan"
+    },
+    {
+        "brand_id": "74",
+        "name": "Aygo",
+        "slug": "aygo"
+    },
+    {
+        "brand_id": "74",
+        "name": "Hilux",
+        "slug": "hilux"
+    },
+    {
+        "brand_id": "74",
+        "name": "Dyna",
+        "slug": "dyna"
+    },
+    {
+        "brand_id": "74",
+        "name": "Land Cruiser 200",
+        "slug": "land-cruiser-200"
+    },
+    {
+        "brand_id": "74",
+        "name": "Verso",
+        "slug": "verso"
+    },
+    {
+        "brand_id": "74",
+        "name": "Iq",
+        "slug": "iq"
+    },
+    {
+        "brand_id": "74",
+        "name": "Urban Cruiser",
+        "slug": "urban-cruiser"
+    },
+    {
+        "brand_id": "74",
+        "name": "Gt86",
+        "slug": "gt86"
+    },
+    {
+        "brand_id": "75",
+        "name": "100",
+        "slug": "100"
+    },
+    {
+        "brand_id": "75",
+        "name": "121",
+        "slug": "121"
+    },
+    {
+        "brand_id": "76",
+        "name": "214",
+        "slug": "214"
+    },
+    {
+        "brand_id": "76",
+        "name": "110 Stawra",
+        "slug": "110-stawra"
+    },
+    {
+        "brand_id": "76",
+        "name": "111 Stawra",
+        "slug": "111-stawra"
+    },
+    {
+        "brand_id": "76",
+        "name": "215",
+        "slug": "215"
+    },
+    {
+        "brand_id": "76",
+        "name": "112 Stawra",
+        "slug": "112-stawra"
+    },
+    {
+        "brand_id": "77",
+        "name": "Passat",
+        "slug": "passat"
+    },
+    {
+        "brand_id": "77",
+        "name": "Golf",
+        "slug": "golf"
+    },
+    {
+        "brand_id": "77",
+        "name": "Vento",
+        "slug": "vento"
+    },
+    {
+        "brand_id": "77",
+        "name": "Polo",
+        "slug": "polo"
+    },
+    {
+        "brand_id": "77",
+        "name": "Corrado",
+        "slug": "corrado"
+    },
+    {
+        "brand_id": "77",
+        "name": "Sharan",
+        "slug": "sharan"
+    },
+    {
+        "brand_id": "77",
+        "name": "Lupo",
+        "slug": "lupo"
+    },
+    {
+        "brand_id": "77",
+        "name": "Bora",
+        "slug": "bora"
+    },
+    {
+        "brand_id": "77",
+        "name": "Jetta",
+        "slug": "jetta"
+    },
+    {
+        "brand_id": "77",
+        "name": "New Beetle",
+        "slug": "new-beetle"
+    },
+    {
+        "brand_id": "77",
+        "name": "Phaeton",
+        "slug": "phaeton"
+    },
+    {
+        "brand_id": "77",
+        "name": "Touareg",
+        "slug": "touareg"
+    },
+    {
+        "brand_id": "77",
+        "name": "Touran",
+        "slug": "touran"
+    },
+    {
+        "brand_id": "77",
+        "name": "Multivan",
+        "slug": "multivan"
+    },
+    {
+        "brand_id": "77",
+        "name": "Caddy",
+        "slug": "caddy"
+    },
+    {
+        "brand_id": "77",
+        "name": "Golf Plus",
+        "slug": "golf-plus"
+    },
+    {
+        "brand_id": "77",
+        "name": "Fox",
+        "slug": "fox"
+    },
+    {
+        "brand_id": "77",
+        "name": "Eos",
+        "slug": "eos"
+    },
+    {
+        "brand_id": "77",
+        "name": "Caravelle",
+        "slug": "caravelle"
+    },
+    {
+        "brand_id": "77",
+        "name": "Tiguan",
+        "slug": "tiguan"
+    },
+    {
+        "brand_id": "77",
+        "name": "Transporter",
+        "slug": "transporter"
+    },
+    {
+        "brand_id": "77",
+        "name": "Lt",
+        "slug": "lt"
+    },
+    {
+        "brand_id": "77",
+        "name": "Taro",
+        "slug": "taro"
+    },
+    {
+        "brand_id": "77",
+        "name": "Crafter",
+        "slug": "crafter"
+    },
+    {
+        "brand_id": "77",
+        "name": "California",
+        "slug": "california"
+    },
+    {
+        "brand_id": "77",
+        "name": "Santana",
+        "slug": "santana"
+    },
+    {
+        "brand_id": "77",
+        "name": "Scirocco",
+        "slug": "scirocco"
+    },
+    {
+        "brand_id": "77",
+        "name": "Passat Cc",
+        "slug": "passat-cc"
+    },
+    {
+        "brand_id": "77",
+        "name": "Amarok",
+        "slug": "amarok"
+    },
+    {
+        "brand_id": "77",
+        "name": "Beetle",
+        "slug": "beetle"
+    },
+    {
+        "brand_id": "77",
+        "name": "Up",
+        "slug": "up"
+    },
+    {
+        "brand_id": "77",
+        "name": "Cc",
+        "slug": "cc"
+    },
+    {
+        "brand_id": "78",
+        "name": "440",
+        "slug": "440"
+    },
+    {
+        "brand_id": "78",
+        "name": "850",
+        "slug": "850"
+    },
+    {
+        "brand_id": "78",
+        "name": "S70",
+        "slug": "s70"
+    },
+    {
+        "brand_id": "78",
+        "name": "V70",
+        "slug": "v70"
+    },
+    {
+        "brand_id": "78",
+        "name": "V70 Classic",
+        "slug": "v70-classic"
+    },
+    {
+        "brand_id": "78",
+        "name": "940",
+        "slug": "940"
+    },
+    {
+        "brand_id": "78",
+        "name": "480",
+        "slug": "480"
+    },
+    {
+        "brand_id": "78",
+        "name": "460",
+        "slug": "460"
+    },
+    {
+        "brand_id": "78",
+        "name": "960",
+        "slug": "960"
+    },
+    {
+        "brand_id": "78",
+        "name": "S90",
+        "slug": "s90"
+    },
+    {
+        "brand_id": "78",
+        "name": "V90",
+        "slug": "v90"
+    },
+    {
+        "brand_id": "78",
+        "name": "Classic",
+        "slug": "classic"
+    },
+    {
+        "brand_id": "78",
+        "name": "S40",
+        "slug": "s40"
+    },
+    {
+        "brand_id": "78",
+        "name": "V40",
+        "slug": "v40"
+    },
+    {
+        "brand_id": "78",
+        "name": "V50",
+        "slug": "v50"
+    },
+    {
+        "brand_id": "78",
+        "name": "V70 Xc",
+        "slug": "v70-xc"
+    },
+    {
+        "brand_id": "78",
+        "name": "Xc70",
+        "slug": "xc70"
+    },
+    {
+        "brand_id": "78",
+        "name": "C70",
+        "slug": "c70"
+    },
+    {
+        "brand_id": "78",
+        "name": "S80",
+        "slug": "s80"
+    },
+    {
+        "brand_id": "78",
+        "name": "S60",
+        "slug": "s60"
+    },
+    {
+        "brand_id": "78",
+        "name": "Xc90",
+        "slug": "xc90"
+    },
+    {
+        "brand_id": "78",
+        "name": "C30",
+        "slug": "c30"
+    },
+    {
+        "brand_id": "78",
+        "name": "780",
+        "slug": "780"
+    },
+    {
+        "brand_id": "78",
+        "name": "760",
+        "slug": "760"
+    },
+    {
+        "brand_id": "78",
+        "name": "740",
+        "slug": "740"
+    },
+    {
+        "brand_id": "78",
+        "name": "240",
+        "slug": "240"
+    },
+    {
+        "brand_id": "78",
+        "name": "360",
+        "slug": "360"
+    },
+    {
+        "brand_id": "78",
+        "name": "340",
+        "slug": "340"
+    },
+    {
+        "brand_id": "78",
+        "name": "Xc60",
+        "slug": "xc60"
+    },
+    {
+        "brand_id": "78",
+        "name": "V60",
+        "slug": "v60"
+    },
+    {
+        "brand_id": "78",
+        "name": "V40 Cross Country",
+        "slug": "v40-cross-country"
+    },
+    {
+        "brand_id": "79",
+        "name": "353",
+        "slug": "353"
+    }
+]
