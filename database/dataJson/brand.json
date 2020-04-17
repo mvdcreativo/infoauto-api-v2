@@ -1,0 +1,316 @@
+[{
+    "name": "Abarth",
+    "slug": "abarth"
+},
+{
+    "name": "Alfa Romeo",
+    "slug": "alfa-romeo"
+},
+{
+    "name": "Aro",
+    "slug": "aro"
+},
+{
+    "name": "Asia",
+    "slug": "asia"
+},
+{
+    "name": "Asia Motors",
+    "slug": "asia-motors"
+},
+{
+    "name": "Aston Martin",
+    "slug": "aston-martin"
+},
+{
+    "name": "Audi",
+    "slug": "audi"
+},
+{
+    "name": "Austin",
+    "slug": "austin"
+},
+{
+    "name": "Auverland",
+    "slug": "auverland"
+},
+{
+    "name": "Bentley",
+    "slug": "bentley"
+},
+{
+    "name": "Bertone",
+    "slug": "bertone"
+},
+{
+    "name": "Bmw",
+    "slug": "bmw"
+},
+{
+    "name": "Cadillac",
+    "slug": "cadillac"
+},
+{
+    "name": "Chevrolet",
+    "slug": "chevrolet"
+},
+{
+    "name": "Chrysler",
+    "slug": "chrysler"
+},
+{
+    "name": "Citroen",
+    "slug": "citroen"
+},
+{
+    "name": "Corvette",
+    "slug": "corvette"
+},
+{
+    "name": "Dacia",
+    "slug": "dacia"
+},
+{
+    "name": "Daewoo",
+    "slug": "daewoo"
+},
+{
+    "name": "Daf",
+    "slug": "daf"
+},
+{
+    "name": "Daihatsu",
+    "slug": "daihatsu"
+},
+{
+    "name": "Daimler",
+    "slug": "daimler"
+},
+{
+    "name": "Dodge",
+    "slug": "dodge"
+},
+{
+    "name": "Ferrari",
+    "slug": "ferrari"
+},
+{
+    "name": "Fiat",
+    "slug": "fiat"
+},
+{
+    "name": "Ford",
+    "slug": "ford"
+},
+{
+    "name": "Galloper",
+    "slug": "galloper"
+},
+{
+    "name": "Gmc",
+    "slug": "gmc"
+},
+{
+    "name": "Honda",
+    "slug": "honda"
+},
+{
+    "name": "Hummer",
+    "slug": "hummer"
+},
+{
+    "name": "Hyundai",
+    "slug": "hyundai"
+},
+{
+    "name": "Infiniti",
+    "slug": "infiniti"
+},
+{
+    "name": "Innocenti",
+    "slug": "innocenti"
+},
+{
+    "name": "Isuzu",
+    "slug": "isuzu"
+},
+{
+    "name": "Iveco",
+    "slug": "iveco"
+},
+{
+    "name": "Iveco-pegaso",
+    "slug": "iveco-pegaso"
+},
+{
+    "name": "Jaguar",
+    "slug": "jaguar"
+},
+{
+    "name": "Jeep",
+    "slug": "jeep"
+},
+{
+    "name": "Kia",
+    "slug": "kia"
+},
+{
+    "name": "Lada",
+    "slug": "lada"
+},
+{
+    "name": "Lamborghini",
+    "slug": "lamborghini"
+},
+{
+    "name": "Lancia",
+    "slug": "lancia"
+},
+{
+    "name": "Land-rover",
+    "slug": "land-rover"
+},
+{
+    "name": "Ldv",
+    "slug": "ldv"
+},
+{
+    "name": "Lexus",
+    "slug": "lexus"
+},
+{
+    "name": "Lotus",
+    "slug": "lotus"
+},
+{
+    "name": "Mahindra",
+    "slug": "mahindra"
+},
+{
+    "name": "Maserati",
+    "slug": "maserati"
+},
+{
+    "name": "Maybach",
+    "slug": "maybach"
+},
+{
+    "name": "Mazda",
+    "slug": "mazda"
+},
+{
+    "name": "Mercedes-benz",
+    "slug": "mercedes-benz"
+},
+{
+    "name": "Mg",
+    "slug": "mg"
+},
+{
+    "name": "Mini",
+    "slug": "mini"
+},
+{
+    "name": "Mitsubishi",
+    "slug": "mitsubishi"
+},
+{
+    "name": "Morgan",
+    "slug": "morgan"
+},
+{
+    "name": "Nissan",
+    "slug": "nissan"
+},
+{
+    "name": "Opel",
+    "slug": "opel"
+},
+{
+    "name": "Peugeot",
+    "slug": "peugeot"
+},
+{
+    "name": "Pontiac",
+    "slug": "pontiac"
+},
+{
+    "name": "Porsche",
+    "slug": "porsche"
+},
+{
+    "name": "Renault",
+    "slug": "renault"
+},
+{
+    "name": "Rolls-royce",
+    "slug": "rolls-royce"
+},
+{
+    "name": "Rover",
+    "slug": "rover"
+},
+{
+    "name": "Saab",
+    "slug": "saab"
+},
+{
+    "name": "Santana",
+    "slug": "santana"
+},
+{
+    "name": "Seat",
+    "slug": "seat"
+},
+{
+    "name": "Skoda",
+    "slug": "skoda"
+},
+{
+    "name": "Smart",
+    "slug": "smart"
+},
+{
+    "name": "Ssangyong",
+    "slug": "ssangyong"
+},
+{
+    "name": "Subaru",
+    "slug": "subaru"
+},
+{
+    "name": "Suzuki",
+    "slug": "suzuki"
+},
+{
+    "name": "Talbot",
+    "slug": "talbot"
+},
+{
+    "name": "Tata",
+    "slug": "tata"
+},
+{
+    "name": "Toyota",
+    "slug": "toyota"
+},
+{
+    "name": "Umm",
+    "slug": "umm"
+},
+{
+    "name": "Vaz",
+    "slug": "vaz"
+},
+{
+    "name": "Volkswagen",
+    "slug": "volkswagen"
+},
+{
+    "name": "Volvo",
+    "slug": "volvo"
+},
+{
+    "name": "Wartburg",
+    "slug": "wartburg"
+}]
