@@ -95,7 +95,7 @@ class ProductController extends Controller
             $product->save();
         }
 
-        return response()->json($product, 200);
+        return response()->json($product, 200,JSON_NUMERIC_CHECK);
     }
 
     /**
