@@ -56,7 +56,10 @@ class SearchProductController extends Controller
 
     public function findByUser($id){
 
-        $product = Product::with('user', 'brand','status', 'vehicle_model', 'vehicle_sub_model', 'user', 'price_condition', 'currency', 'tariff', 'images')->where('user_id', $id)->get();
+        $product = Product::with('user', 'brand','status', 'vehicle_model', 'vehicle_sub_model', 'user', 'price_condition', 'currency', 'tariff', 'images')
+        ->orWhere('status_id', 5)
+        ->orWhere('status_id', 1)
+        ->where('user_id', $id)->get();
 
         return response()->json($product, 200);
     }

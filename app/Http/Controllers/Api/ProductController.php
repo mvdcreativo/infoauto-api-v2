@@ -107,7 +107,8 @@ class ProductController extends Controller
      */
     public function update($id, Request $request)
     {
-        //Front step1
+
+        // return $request->all();
         $product = Product::with('attributes', 'brand','vehicle_model', 'vehicle_sub_model','extras', 'images')->find($id);
         if ($request->vehicle_category_id) $product->vehicle_category_id = $request->vehicle_category_id;
         if ($request->brand_id) $product->brand_id = $request->brand_id;

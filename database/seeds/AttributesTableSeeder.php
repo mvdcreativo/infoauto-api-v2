@@ -14,13 +14,13 @@ class AttributesTableSeeder extends Seeder
         App\Attribute::create([
             'name'=> 'Seguridad',
             'slug'=> 'seguridad',
-            'multi_option'=> 1,
+            'multi_option'=> 0,
             'image_id'=> 1
         ]);
         App\Attribute::create([
             'name'=> 'Confort',
             'slug'=> 'confort',
-            'multi_option'=> 1,
+            'multi_option'=> 0,
             'image_id'=> 1
         ]);
         App\Attribute::create([
