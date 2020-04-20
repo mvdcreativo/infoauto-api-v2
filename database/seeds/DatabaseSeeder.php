@@ -14,7 +14,7 @@ class DatabaseSeeder extends Seeder
         // $this->call(UsersTableSeeder::class);
         $this->call([
             statuses_table_seeder::class,
-            ImageSeeder::class,
+            // ImageSeeder::class,
             VehicleCategorySeeder::class,
             BrandSeeder::class,
             CurrencySeeder::class,
@@ -25,13 +25,13 @@ class DatabaseSeeder extends Seeder
             CitiesTableSeeder::class,
             NeighborhoodsTableSeeder::class,
             UsersSeeder::class,
-            AttributesTableSeeder::class,
-            ExtrasTableSeeder::class,
+            // AttributesTableSeeder::class,
+            // ExtrasTableSeeder::class,
             AnoTableSeeder::class,
             PriceConditionTableSeeder::class,
             ConditionTableSeeder::class,
             TariffsTableSeeder::class,
-            ProductsTableSeeder::class,
+            // ProductsTableSeeder::class,
             ]);
 
     }

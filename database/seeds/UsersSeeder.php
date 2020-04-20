@@ -12,8 +12,8 @@ class UsersSeeder extends Seeder
      */
     public function run()
     {
-        $count = 20;
-        factory(User::class, $count)->create();
+        // $count = 20;
+        // factory(User::class, $count)->create();
 
         $name = 'Emir Mendez';
         User::create([

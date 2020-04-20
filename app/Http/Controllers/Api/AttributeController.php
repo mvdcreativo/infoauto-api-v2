@@ -42,6 +42,7 @@ class AttributeController extends Controller
             $attribute->name = $name;
             $attribute->slug = $slug;
             $attribute->attribute_id = $request->attribute_id;
+            $attribute->multi_option = $request->multi_option;
             $attribute->save();
 
             return response()->json($attribute, 200);
@@ -83,7 +84,8 @@ class AttributeController extends Controller
             $attribute = Attribute::find($id);
             $attribute->name = $name;
             $attribute->slug = $slug;
-            $attribute->attribute_id = $request->attribute_id;
+            if($request->attribute_id) $attribute->attribute_id = $request->attribute_id;
+            $attribute->multi_option = $request->multi_option;
             $attribute->save();
 
             return response()->json($attribute, 200);
